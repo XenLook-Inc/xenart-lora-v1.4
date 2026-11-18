@@ -1,0 +1,117 @@
+{
+  "_note": "고정 평가 세트 v1 (2026-11-10). 결과를 보고 바꾸지 않는다. 레인 11 x 프롬프트 8 x 시드 2 = 176쌍. 프롬프트는 내용만(매체·화풍 단어 없음), 긍정형. must = 반영 점검용 핵심 요소(사람이 눈으로 확인).",
+  "seeds": [1101, 2202],
+  "suffix": ", wordless painted scene, clean unmarked surfaces",
+  "lanes": {
+    "ea_ink_scroll": [
+      {"p": "an old fisherman mending nets at dawn in a harbor village", "must": ["old man", "nets", "harbor"]},
+      {"p": "two scholars sharing tea in a mountain pavilion above a river", "must": ["two men", "tea", "pavilion", "river"]},
+      {"p": "a crane standing in reeds beside a quiet pond", "must": ["crane", "reeds", "pond"]},
+      {"p": "a boatman poling a small boat through morning mist", "must": ["boatman", "boat", "mist"]},
+      {"p": "pine trees on a cliff with a lone traveler crossing a bridge", "must": ["pine", "cliff", "traveler", "bridge"]},
+      {"p": "a woman carrying water jars along a village path", "must": ["woman", "jars", "path"]},
+      {"p": "geese flying over a lake at dusk with a small hut on the shore", "must": ["geese", "lake", "hut"]},
+      {"p": "a farmer leading an ox across a flooded field", "must": ["farmer", "ox", "field"]}
+    ],
+    "editorial_graphic": [
+      {"p": "a crowd of commuters crossing a busy street under umbrellas", "must": ["crowd", "street", "umbrellas"]},
+      {"p": "a lone worker climbing a tall ladder toward a giant clock", "must": ["worker", "ladder", "clock"]},
+      {"p": "a chess game between two figures on a city rooftop", "must": ["chessboard", "two figures", "rooftop"]},
+      {"p": "a ship made of paper sailing across a stormy sea", "must": ["paper ship", "sea", "storm"]},
+      {"p": "a child holding a balloon beside a tall factory chimney", "must": ["child", "balloon", "chimney"]},
+      {"p": "a teacher and students around a table covered in maps", "must": ["teacher", "students", "table", "maps"]},
+      {"p": "a bridge being built from both riverbanks toward the middle", "must": ["bridge", "river", "two banks"]},
+      {"p": "a market stall with baskets of fruit and a shopkeeper", "must": ["stall", "fruit baskets", "shopkeeper"]}
+    ],
+    "egypt_mural": [
+      {"p": "a harpist playing for seated guests at a banquet, servants carrying jars", "must": ["harp", "seated guests", "servants", "jars"]},
+      {"p": "a procession of offering bearers walking toward a temple gate", "must": ["procession", "offerings", "temple gate"]},
+      {"p": "fishermen pulling a net full of fish from a river lined with papyrus", "must": ["fishermen", "net", "fish", "papyrus"]},
+      {"p": "a scribe seated cross-legged writing on a scroll before a nobleman", "must": ["scribe", "scroll", "nobleman"]},
+      {"p": "farmers harvesting wheat while an overseer watches", "must": ["farmers", "wheat", "overseer"]},
+      {"p": "dancers with raised arms accompanied by a flute player", "must": ["dancers", "flute"]},
+      {"p": "a boat with a tall sail carrying a family down the river", "must": ["boat", "sail", "family", "river"]},
+      {"p": "a queen holding a lotus flower with attendants behind her", "must": ["queen", "lotus", "attendants"]}
+    ],
+    "eu_classical_mural": [
+      {"p": "a gathering of philosophers talking under a colonnade", "must": ["philosophers", "colonnade"]},
+      {"p": "a shepherd resting with his flock beneath a great tree", "must": ["shepherd", "flock", "tree"]},
+      {"p": "a harvest feast with women carrying baskets of grapes", "must": ["feast", "women", "grapes"]},
+      {"p": "a young hero meeting an old sage at a stone well", "must": ["young man", "old sage", "well"]},
+      {"p": "musicians playing a lyre and pipes in a garden", "must": ["lyre", "pipes", "garden"]},
+      {"p": "a ship arriving at a harbor with crowds on the quay", "must": ["ship", "harbor", "crowd"]},
+      {"p": "a mother and child in a loggia overlooking hills", "must": ["mother", "child", "loggia", "hills"]},
+      {"p": "craftsmen building a stone arch while a master directs", "must": ["craftsmen", "arch", "master"]}
+    ],
+    "eu_symbolist": [
+      {"p": "a girl reading under a great oak in a misty forest", "must": ["girl", "book", "oak", "mist"]},
+      {"p": "a pale figure standing at the edge of a still lake at twilight", "must": ["figure", "lake", "twilight"]},
+      {"p": "a woman with long hair holding a lantern in an empty hall", "must": ["woman", "lantern", "hall"]},
+      {"p": "a boy asleep beside a giant white flower", "must": ["boy", "sleeping", "white flower"]},
+      {"p": "a swan gliding past a ruined tower reflected in water", "must": ["swan", "tower", "reflection"]},
+      {"p": "two figures in long robes walking a stair into clouds", "must": ["two figures", "robes", "stairs", "clouds"]},
+      {"p": "a harp resting on a rock by the sea at night with a crescent moon", "must": ["harp", "rock", "sea", "moon"]},
+      {"p": "an old man holding a mirror in a dim garden", "must": ["old man", "mirror", "garden"]}
+    ],
+    "jp_nihonga": [
+      {"p": "a heron standing among autumn grasses beside a stream", "must": ["heron", "grasses", "stream"]},
+      {"p": "a woman in a kimono holding a paper umbrella on a stone bridge", "must": ["woman", "kimono", "umbrella", "bridge"]},
+      {"p": "carp swimming beneath floating maple leaves", "must": ["carp", "maple leaves"]},
+      {"p": "a farmhouse with a thatched roof under heavy snow", "must": ["farmhouse", "thatched roof", "snow"]},
+      {"p": "a monk walking a mountain trail among cedar trees", "must": ["monk", "trail", "cedars"]},
+      {"p": "cherry blossoms over a small shrine gate", "must": ["cherry blossoms", "shrine gate"]},
+      {"p": "a fisherman at the shore with a small boat at sunrise", "must": ["fisherman", "boat", "sunrise"]},
+      {"p": "two cranes dancing in a snowy field", "must": ["two cranes", "snow", "field"]}
+    ],
+    "kr_picturebook": [
+      {"p": "a grandmother and a little girl planting seeds in a village garden", "must": ["grandmother", "girl", "seeds", "garden"]},
+      {"p": "a tiger sitting beside a boy under a persimmon tree", "must": ["tiger", "boy", "persimmon tree"]},
+      {"p": "children flying a kite on a hill above a tiled-roof village", "must": ["children", "kite", "hill", "tiled roofs"]},
+      {"p": "a rabbit pounding rice cakes by moonlight", "must": ["rabbit", "mortar", "moon"]},
+      {"p": "a farmer and an ox plowing a small terraced field", "must": ["farmer", "ox", "field"]},
+      {"p": "a family eating at a low table in a warm room", "must": ["family", "low table", "room"]},
+      {"p": "a boy crossing a stepping-stone stream with a lantern", "must": ["boy", "stones", "stream", "lantern"]},
+      {"p": "a market day with women selling vegetables under straw hats", "must": ["women", "vegetables", "straw hats"]}
+    ],
+    "latam_mural": [
+      {"p": "workers raising a giant flag over a crowded plaza", "must": ["workers", "flag", "plaza"]},
+      {"p": "a farming family harvesting corn with a volcano behind them", "must": ["family", "corn", "volcano"]},
+      {"p": "a woman grinding maize while children gather around", "must": ["woman", "maize", "children"]},
+      {"p": "miners leaving a tunnel with lamps at sunrise", "must": ["miners", "tunnel", "lamps"]},
+      {"p": "a street band of trumpets and drums leading a parade", "must": ["band", "trumpets", "drums", "parade"]},
+      {"p": "fishermen hauling a canoe onto a river bank", "must": ["fishermen", "canoe", "river"]},
+      {"p": "a teacher reading to villagers outdoors under a tree", "must": ["teacher", "villagers", "tree"]},
+      {"p": "a market with fruit stalls and a woman in a shawl", "must": ["market", "fruit", "woman", "shawl"]}
+    ],
+    "nordic": [
+      {"p": "a lineman raising a utility pole on a stormy island shore", "must": ["lineman", "pole", "storm", "shore"]},
+      {"p": "a fishing family hauling nets in front of red boathouses", "must": ["family", "nets", "boathouses"]},
+      {"p": "a girl in a wool coat walking a snowy path to a wooden church", "must": ["girl", "snow", "church"]},
+      {"p": "reindeer herders resting around a fire beneath the northern lights", "must": ["herders", "reindeer", "fire", "aurora"]},
+      {"p": "a farmer scything hay on a green hillside above a fjord", "must": ["farmer", "scythe", "fjord"]},
+      {"p": "children skating on a frozen lake with a lantern", "must": ["children", "ice", "lantern"]},
+      {"p": "a woman hanging laundry beside a seaside cottage in wind", "must": ["woman", "laundry", "cottage", "wind"]},
+      {"p": "two men rowing a wooden boat through rough water at dusk", "must": ["two men", "boat", "waves"]}
+    ],
+    "sasia_traditional": [
+      {"p": "a court scene with a prince seated under a canopy and musicians", "must": ["prince", "canopy", "musicians"]},
+      {"p": "women in saris drawing water at a stepwell", "must": ["women", "saris", "stepwell"]},
+      {"p": "a rider on an elephant crossing a river with attendants", "must": ["rider", "elephant", "river", "attendants"]},
+      {"p": "a garden pavilion where a lady reads by a lotus pond", "must": ["lady", "pavilion", "lotus pond"]},
+      {"p": "a caravan of camels passing a fortress at sunset", "must": ["camels", "fortress", "sunset"]},
+      {"p": "a potter shaping a jar while a child watches", "must": ["potter", "jar", "child"]},
+      {"p": "farmers transplanting rice in a flooded field with oxen nearby", "must": ["farmers", "rice", "oxen"]},
+      {"p": "a festival procession carrying a decorated shrine through a street", "must": ["procession", "shrine", "street"]}
+    ],
+    "us_narrative": [
+      {"p": "fishermen hauling a dory onto a stormy beach", "must": ["fishermen", "dory", "beach", "storm"]},
+      {"p": "a farm family at a long supper table in a plain kitchen", "must": ["family", "table", "kitchen"]},
+      {"p": "a blacksmith hammering iron while an apprentice holds the tongs", "must": ["blacksmith", "iron", "apprentice"]},
+      {"p": "a schoolteacher on the steps of a one-room schoolhouse with children", "must": ["teacher", "schoolhouse", "children"]},
+      {"p": "railroad workers laying track across a prairie", "must": ["workers", "track", "prairie"]},
+      {"p": "a farmer and a horse plowing at the edge of a wheat field", "must": ["farmer", "horse", "wheat"]},
+      {"p": "a group of women quilting on a porch in the afternoon", "must": ["women", "quilt", "porch"]},
+      {"p": "dockworkers unloading crates from a steamboat at a river landing", "must": ["dockworkers", "crates", "steamboat"]}
+    ]
+  }
+}

@@ -1,0 +1,1410 @@
+image,lane,museum_code,object_id,museum,license,end_year
+cma_129859,ea_ink_scroll,cma,129859,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_129861_c,ea_ink_scroll,cma,129861,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130496,ea_ink_scroll,cma,130496,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130940_c,ea_ink_scroll,cma,130940,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132016_c,ea_ink_scroll,cma,132016,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132017_t_c,ea_ink_scroll,cma,132017,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132926_c,ea_ink_scroll,cma,132926,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132930,ea_ink_scroll,cma,132930,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135431,ea_ink_scroll,cma,135431,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135432,ea_ink_scroll,cma,135432,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135836,ea_ink_scroll,cma,135836,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135953_t,ea_ink_scroll,cma,135953,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136572,ea_ink_scroll,cma,136572,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136759,ea_ink_scroll,cma,136759,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137121_c,ea_ink_scroll,cma,137121,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137125,ea_ink_scroll,cma,137125,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137217,ea_ink_scroll,cma,137217,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_139830,ea_ink_scroll,cma,139830,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140155_c_c,ea_ink_scroll,cma,140155,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140267_t,ea_ink_scroll,cma,140267,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140441,ea_ink_scroll,cma,140441,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140442,ea_ink_scroll,cma,140442,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140443,ea_ink_scroll,cma,140443,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140444,ea_ink_scroll,cma,140444,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140446,ea_ink_scroll,cma,140446,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140447,ea_ink_scroll,cma,140447,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140448,ea_ink_scroll,cma,140448,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140449,ea_ink_scroll,cma,140449,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140451,ea_ink_scroll,cma,140451,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140452,ea_ink_scroll,cma,140452,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_141200_t,ea_ink_scroll,cma,141200,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_141693_t_c,ea_ink_scroll,cma,141693,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142578,ea_ink_scroll,cma,142578,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142641_c,ea_ink_scroll,cma,142641,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143166,ea_ink_scroll,cma,143166,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143244,ea_ink_scroll,cma,143244,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143247,ea_ink_scroll,cma,143247,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143274,ea_ink_scroll,cma,143274,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143776_t_c,ea_ink_scroll,cma,143776,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144278_t_c,ea_ink_scroll,cma,144278,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144829_t_c,ea_ink_scroll,cma,144829,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145419,ea_ink_scroll,cma,145419,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145426_c,ea_ink_scroll,cma,145426,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145430_c,ea_ink_scroll,cma,145430,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145964_t_c,ea_ink_scroll,cma,145964,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146174_c,ea_ink_scroll,cma,146174,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146713,ea_ink_scroll,cma,146713,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147008,ea_ink_scroll,cma,147008,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147045_t,ea_ink_scroll,cma,147045,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147573_t_c,ea_ink_scroll,cma,147573,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147947,ea_ink_scroll,cma,147947,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148079_c,ea_ink_scroll,cma,148079,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148222,ea_ink_scroll,cma,148222,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148235_c,ea_ink_scroll,cma,148235,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148244,ea_ink_scroll,cma,148244,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148362_c,ea_ink_scroll,cma,148362,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148381,ea_ink_scroll,cma,148381,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148671,ea_ink_scroll,cma,148671,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148719,ea_ink_scroll,cma,148719,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148851,ea_ink_scroll,cma,148851,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148852,ea_ink_scroll,cma,148852,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149073_c,ea_ink_scroll,cma,149073,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149076,ea_ink_scroll,cma,149076,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149077,ea_ink_scroll,cma,149077,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149098_c,ea_ink_scroll,cma,149098,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149125_t,ea_ink_scroll,cma,149125,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149390_c,ea_ink_scroll,cma,149390,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149412_c,ea_ink_scroll,cma,149412,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149605_t_c,ea_ink_scroll,cma,149605,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149608_t_c,ea_ink_scroll,cma,149608,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149621_c,ea_ink_scroll,cma,149621,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149659,ea_ink_scroll,cma,149659,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149791_t_c,ea_ink_scroll,cma,149791,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149880_c,ea_ink_scroll,cma,149880,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150469_c,ea_ink_scroll,cma,150469,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150498,ea_ink_scroll,cma,150498,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150499,ea_ink_scroll,cma,150499,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150500,ea_ink_scroll,cma,150500,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150710,ea_ink_scroll,cma,150710,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150728,ea_ink_scroll,cma,150728,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150730_c,ea_ink_scroll,cma,150730,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150844,ea_ink_scroll,cma,150844,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150903_c,ea_ink_scroll,cma,150903,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151005,ea_ink_scroll,cma,151005,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151540,ea_ink_scroll,cma,151540,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151970,ea_ink_scroll,cma,151970,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152437_c,ea_ink_scroll,cma,152437,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152548_c,ea_ink_scroll,cma,152548,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152549_c,ea_ink_scroll,cma,152549,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152551,ea_ink_scroll,cma,152551,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152553,ea_ink_scroll,cma,152553,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152556_c,ea_ink_scroll,cma,152556,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153850,ea_ink_scroll,cma,153850,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153856,ea_ink_scroll,cma,153856,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154909_c,ea_ink_scroll,cma,154909,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155051_t,ea_ink_scroll,cma,155051,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155790,ea_ink_scroll,cma,155790,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156172,ea_ink_scroll,cma,156172,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_157563,ea_ink_scroll,cma,157563,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_159728_t,ea_ink_scroll,cma,159728,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160127_c,ea_ink_scroll,cma,160127,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160135_c,ea_ink_scroll,cma,160135,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160137_c,ea_ink_scroll,cma,160137,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160140_t_c,ea_ink_scroll,cma,160140,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_161705_c,ea_ink_scroll,cma,161705,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_163078,ea_ink_scroll,cma,163078,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_167662,ea_ink_scroll,cma,167662,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_167663_c,ea_ink_scroll,cma,167663,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_167664,ea_ink_scroll,cma,167664,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173676,ea_ink_scroll,cma,173676,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173730_c,ea_ink_scroll,cma,173730,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173756_c,ea_ink_scroll,cma,173756,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_299308_c,ea_ink_scroll,cma,299308,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_357163_c,ea_ink_scroll,cma,357163,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_678529,ea_ink_scroll,cma,678529,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_679040_t,ea_ink_scroll,cma,679040,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_679053,ea_ink_scroll,cma,679053,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_79571_c,ea_ink_scroll,cma,79571,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_79576_c,ea_ink_scroll,cma,79576,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_86110,ea_ink_scroll,cma,86110,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_86111,ea_ink_scroll,cma,86111,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_86112_c2,ea_ink_scroll,cma,86112,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_86113,ea_ink_scroll,cma,86113,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_86114,ea_ink_scroll,cma,86114,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_94600_c,ea_ink_scroll,cma,94600,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_94605_c,ea_ink_scroll,cma,94605,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_95086,ea_ink_scroll,cma,95086,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_98870,ea_ink_scroll,cma,98870,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_39540_c,ea_ink_scroll,met,39540,The Metropolitan Museum of Art,CC0 (Met Open Access),1702
+met_40071_c,ea_ink_scroll,met,40071,The Metropolitan Museum of Art,CC0 (Met Open Access),1199
+met_40196_c,ea_ink_scroll,met,40196,The Metropolitan Museum of Art,CC0 (Met Open Access),1299
+met_45737_c,ea_ink_scroll,met,45737,The Metropolitan Museum of Art,CC0 (Met Open Access),1868
+met_45738_c,ea_ink_scroll,met,45738,The Metropolitan Museum of Art,CC0 (Met Open Access),1868
+met_49005,ea_ink_scroll,met,49005,The Metropolitan Museum of Art,CC0 (Met Open Access),1833
+met_49084_c,ea_ink_scroll,met,49084,The Metropolitan Museum of Art,CC0 (Met Open Access),1733
+cma_102844_c,editorial_graphic,cma,102844,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102848_c,editorial_graphic,cma,102848,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102849_c,editorial_graphic,cma,102849,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102851_c,editorial_graphic,cma,102851,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102852_c,editorial_graphic,cma,102852,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102859_c,editorial_graphic,cma,102859,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102860_c,editorial_graphic,cma,102860,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102864_t_c,editorial_graphic,cma,102864,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102870_t_c,editorial_graphic,cma,102870,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102871_c,editorial_graphic,cma,102871,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_102872_c,editorial_graphic,cma,102872,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_103314,editorial_graphic,cma,103314,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_103315_c,editorial_graphic,cma,103315,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_103317_t,editorial_graphic,cma,103317,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_104219_c,editorial_graphic,cma,104219,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_104985_t_c,editorial_graphic,cma,104985,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_106126,editorial_graphic,cma,106126,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_106900_c,editorial_graphic,cma,106900,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107023,editorial_graphic,cma,107023,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107036,editorial_graphic,cma,107036,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107209_c,editorial_graphic,cma,107209,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107210_c,editorial_graphic,cma,107210,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107212_c,editorial_graphic,cma,107212,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107215_c,editorial_graphic,cma,107215,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107216_c,editorial_graphic,cma,107216,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107218_c,editorial_graphic,cma,107218,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107219_t,editorial_graphic,cma,107219,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107220_c,editorial_graphic,cma,107220,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107221_c,editorial_graphic,cma,107221,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107222_c,editorial_graphic,cma,107222,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107233_c,editorial_graphic,cma,107233,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_108335_c,editorial_graphic,cma,108335,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_108393_c,editorial_graphic,cma,108393,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_108596_c,editorial_graphic,cma,108596,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_108599_c,editorial_graphic,cma,108599,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_108830_c,editorial_graphic,cma,108830,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_109042_t,editorial_graphic,cma,109042,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_111370,editorial_graphic,cma,111370,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_112054_c,editorial_graphic,cma,112054,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120089_c,editorial_graphic,cma,120089,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120090,editorial_graphic,cma,120090,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120092_t,editorial_graphic,cma,120092,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_121140_t_c,editorial_graphic,cma,121140,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_121178_c,editorial_graphic,cma,121178,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_121184_c,editorial_graphic,cma,121184,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_121185_c,editorial_graphic,cma,121185,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_122875_t,editorial_graphic,cma,122875,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124728,editorial_graphic,cma,124728,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_125909_t_c,editorial_graphic,cma,125909,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_125925_c,editorial_graphic,cma,125925,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_126680_t,editorial_graphic,cma,126680,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127207,editorial_graphic,cma,127207,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127337_c,editorial_graphic,cma,127337,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127640_c,editorial_graphic,cma,127640,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127645_c,editorial_graphic,cma,127645,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127653_c,editorial_graphic,cma,127653,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127654_c,editorial_graphic,cma,127654,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127657_c,editorial_graphic,cma,127657,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127964_c,editorial_graphic,cma,127964,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_129167_c,editorial_graphic,cma,129167,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130525_t_c,editorial_graphic,cma,130525,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135214_c,editorial_graphic,cma,135214,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135515_c,editorial_graphic,cma,135515,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135517_c,editorial_graphic,cma,135517,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135518,editorial_graphic,cma,135518,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135770_c,editorial_graphic,cma,135770,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137147_c,editorial_graphic,cma,137147,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137245,editorial_graphic,cma,137245,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137248_c,editorial_graphic,cma,137248,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137250_c,editorial_graphic,cma,137250,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137251_c,editorial_graphic,cma,137251,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137254_c,editorial_graphic,cma,137254,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137255_c,editorial_graphic,cma,137255,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142015_c,editorial_graphic,cma,142015,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142682,editorial_graphic,cma,142682,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143299_c,editorial_graphic,cma,143299,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144659_c,editorial_graphic,cma,144659,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148689_c,editorial_graphic,cma,148689,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148915,editorial_graphic,cma,148915,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156129,editorial_graphic,cma,156129,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156640_c,editorial_graphic,cma,156640,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160583_t,editorial_graphic,cma,160583,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_161759,editorial_graphic,cma,161759,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_161811_c,editorial_graphic,cma,161811,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162557_c,editorial_graphic,cma,162557,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162899_t_c,editorial_graphic,cma,162899,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162900_c,editorial_graphic,cma,162900,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162902_c,editorial_graphic,cma,162902,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162905_c,editorial_graphic,cma,162905,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162906_c,editorial_graphic,cma,162906,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162907_c,editorial_graphic,cma,162907,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162909_c,editorial_graphic,cma,162909,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162910_c,editorial_graphic,cma,162910,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162911_c,editorial_graphic,cma,162911,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162913_c,editorial_graphic,cma,162913,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162915_c,editorial_graphic,cma,162915,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162917_c,editorial_graphic,cma,162917,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_163007_t_c,editorial_graphic,cma,163007,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_166547_c,editorial_graphic,cma,166547,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_167909_t,editorial_graphic,cma,167909,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_167920_c,editorial_graphic,cma,167920,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_168939,editorial_graphic,cma,168939,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_169669_t_c,editorial_graphic,cma,169669,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_169672_t_c,editorial_graphic,cma,169672,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_169675_t,editorial_graphic,cma,169675,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_169676_c,editorial_graphic,cma,169676,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_169678_t_c,editorial_graphic,cma,169678,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170046_c,editorial_graphic,cma,170046,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170057,editorial_graphic,cma,170057,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171210_c,editorial_graphic,cma,171210,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171211,editorial_graphic,cma,171211,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171212,editorial_graphic,cma,171212,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171213,editorial_graphic,cma,171213,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171218,editorial_graphic,cma,171218,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171219,editorial_graphic,cma,171219,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171221,editorial_graphic,cma,171221,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171223,editorial_graphic,cma,171223,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171224,editorial_graphic,cma,171224,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171426,editorial_graphic,cma,171426,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171427_t,editorial_graphic,cma,171427,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171585_t,editorial_graphic,cma,171585,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173263,editorial_graphic,cma,173263,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_380082_t,editorial_graphic,cma,380082,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_441006_t,editorial_graphic,cma,441006,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_79377_c,editorial_graphic,cma,79377,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_79379_c,editorial_graphic,cma,79379,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_82903_c,editorial_graphic,cma,82903,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_83462_t,editorial_graphic,cma,83462,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_333889_c,editorial_graphic,met,333889,The Metropolitan Museum of Art,CC0 (Met Open Access),1879
+met_333914_c,editorial_graphic,met,333914,The Metropolitan Museum of Art,CC0 (Met Open Access),1870
+met_333915_c,editorial_graphic,met,333915,The Metropolitan Museum of Art,CC0 (Met Open Access),1870
+met_334064_c,editorial_graphic,met,334064,The Metropolitan Museum of Art,CC0 (Met Open Access),1892
+met_334114_t_c,editorial_graphic,met,334114,The Metropolitan Museum of Art,CC0 (Met Open Access),1893
+met_334120_t,editorial_graphic,met,334120,The Metropolitan Museum of Art,CC0 (Met Open Access),1893
+met_334204_t_c,editorial_graphic,met,334204,The Metropolitan Museum of Art,CC0 (Met Open Access),1893
+met_334308_c,editorial_graphic,met,334308,The Metropolitan Museum of Art,CC0 (Met Open Access),1879
+met_334411_t_c,editorial_graphic,met,334411,The Metropolitan Museum of Art,CC0 (Met Open Access),1895
+met_381867_c,editorial_graphic,met,381867,The Metropolitan Museum of Art,CC0 (Met Open Access),1892
+met_459241_c,editorial_graphic,met,459241,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_671396_c,editorial_graphic,met,671396,The Metropolitan Museum of Art,CC0 (Met Open Access),1862
+met_544531,egypt_mural,met,544531,The Metropolitan Museum of Art,CC0 (Met Open Access),-2575
+met_544533,egypt_mural,met,544533,The Metropolitan Museum of Art,CC0 (Met Open Access),-2030
+met_544536,egypt_mural,met,544536,The Metropolitan Museum of Art,CC0 (Met Open Access),-2030
+met_544541_c,egypt_mural,met,544541,The Metropolitan Museum of Art,CC0 (Met Open Access),-2010
+met_544542_c,egypt_mural,met,544542,The Metropolitan Museum of Art,CC0 (Met Open Access),-2010
+met_544543,egypt_mural,met,544543,The Metropolitan Museum of Art,CC0 (Met Open Access),-1991
+met_544545,egypt_mural,met,544545,The Metropolitan Museum of Art,CC0 (Met Open Access),-1917
+met_544546,egypt_mural,met,544546,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_544547,egypt_mural,met,544547,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_544548_c,egypt_mural,met,544548,The Metropolitan Museum of Art,CC0 (Met Open Access),-1878
+met_544549,egypt_mural,met,544549,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_544550,egypt_mural,met,544550,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_544551,egypt_mural,met,544551,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_544552,egypt_mural,met,544552,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_544553_c,egypt_mural,met,544553,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_544554,egypt_mural,met,544554,The Metropolitan Museum of Art,CC0 (Met Open Access),-1525
+met_544555,egypt_mural,met,544555,The Metropolitan Museum of Art,CC0 (Met Open Access),-1550
+met_544557_c,egypt_mural,met,544557,The Metropolitan Museum of Art,CC0 (Met Open Access),-1550
+met_544559,egypt_mural,met,544559,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544560,egypt_mural,met,544560,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544561,egypt_mural,met,544561,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544563,egypt_mural,met,544563,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544564,egypt_mural,met,544564,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_544567,egypt_mural,met,544567,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544568_c,egypt_mural,met,544568,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544570,egypt_mural,met,544570,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544571,egypt_mural,met,544571,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544572,egypt_mural,met,544572,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544573_c,egypt_mural,met,544573,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544574,egypt_mural,met,544574,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544577,egypt_mural,met,544577,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544579,egypt_mural,met,544579,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544581,egypt_mural,met,544581,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544584,egypt_mural,met,544584,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544587,egypt_mural,met,544587,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544588,egypt_mural,met,544588,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544589,egypt_mural,met,544589,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544590,egypt_mural,met,544590,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544591,egypt_mural,met,544591,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544592_c,egypt_mural,met,544592,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544596,egypt_mural,met,544596,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544597,egypt_mural,met,544597,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544598,egypt_mural,met,544598,The Metropolitan Museum of Art,CC0 (Met Open Access),-1458
+met_544599,egypt_mural,met,544599,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544600,egypt_mural,met,544600,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544601,egypt_mural,met,544601,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544606,egypt_mural,met,544606,The Metropolitan Museum of Art,CC0 (Met Open Access),-1420
+met_544607,egypt_mural,met,544607,The Metropolitan Museum of Art,CC0 (Met Open Access),-1479
+met_544608,egypt_mural,met,544608,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544609,egypt_mural,met,544609,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544610_c,egypt_mural,met,544610,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544611,egypt_mural,met,544611,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544612_c,egypt_mural,met,544612,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544613_c,egypt_mural,met,544613,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544614,egypt_mural,met,544614,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544615,egypt_mural,met,544615,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544616,egypt_mural,met,544616,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544617,egypt_mural,met,544617,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544618,egypt_mural,met,544618,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544620_c,egypt_mural,met,544620,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544621,egypt_mural,met,544621,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544622,egypt_mural,met,544622,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544623_c,egypt_mural,met,544623,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544624_c,egypt_mural,met,544624,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544625,egypt_mural,met,544625,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544626,egypt_mural,met,544626,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544627,egypt_mural,met,544627,The Metropolitan Museum of Art,CC0 (Met Open Access),-1420
+met_544628,egypt_mural,met,544628,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544629_c,egypt_mural,met,544629,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544630_c,egypt_mural,met,544630,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544631,egypt_mural,met,544631,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544632,egypt_mural,met,544632,The Metropolitan Museum of Art,CC0 (Met Open Access),-1479
+met_544633_c,egypt_mural,met,544633,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544635,egypt_mural,met,544635,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544636,egypt_mural,met,544636,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544637,egypt_mural,met,544637,The Metropolitan Museum of Art,CC0 (Met Open Access),-1479
+met_544638_c,egypt_mural,met,544638,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544639,egypt_mural,met,544639,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544640,egypt_mural,met,544640,The Metropolitan Museum of Art,CC0 (Met Open Access),-1479
+met_544641,egypt_mural,met,544641,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544642_c,egypt_mural,met,544642,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544643,egypt_mural,met,544643,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544644,egypt_mural,met,544644,The Metropolitan Museum of Art,CC0 (Met Open Access),-1479
+met_544645,egypt_mural,met,544645,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544646,egypt_mural,met,544646,The Metropolitan Museum of Art,CC0 (Met Open Access),-1479
+met_544647,egypt_mural,met,544647,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544648,egypt_mural,met,544648,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544649,egypt_mural,met,544649,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544654,egypt_mural,met,544654,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_544655,egypt_mural,met,544655,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_544657,egypt_mural,met,544657,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_545114,egypt_mural,met,545114,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_545140,egypt_mural,met,545140,The Metropolitan Museum of Art,CC0 (Met Open Access),-1349
+met_547713,egypt_mural,met,547713,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_548305,egypt_mural,met,548305,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_548354_c,egypt_mural,met,548354,The Metropolitan Museum of Art,CC0 (Met Open Access),-1295
+met_548355,egypt_mural,met,548355,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_548357,egypt_mural,met,548357,The Metropolitan Museum of Art,CC0 (Met Open Access),-1153
+met_548436,egypt_mural,met,548436,The Metropolitan Museum of Art,CC0 (Met Open Access),-1279
+met_548437,egypt_mural,met,548437,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_548438,egypt_mural,met,548438,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_548520,egypt_mural,met,548520,The Metropolitan Museum of Art,CC0 (Met Open Access),-1349
+met_548521,egypt_mural,met,548521,The Metropolitan Museum of Art,CC0 (Met Open Access),-1390
+met_548561,egypt_mural,met,548561,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_548563,egypt_mural,met,548563,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_548564,egypt_mural,met,548564,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_548566,egypt_mural,met,548566,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_548567,egypt_mural,met,548567,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_548568_c,egypt_mural,met,548568,The Metropolitan Museum of Art,CC0 (Met Open Access),-1349
+met_548569_c,egypt_mural,met,548569,The Metropolitan Museum of Art,CC0 (Met Open Access),-1295
+met_548573,egypt_mural,met,548573,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_548574,egypt_mural,met,548574,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_548575,egypt_mural,met,548575,The Metropolitan Museum of Art,CC0 (Met Open Access),-1897
+met_548576,egypt_mural,met,548576,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_548577,egypt_mural,met,548577,The Metropolitan Museum of Art,CC0 (Met Open Access),-1327
+met_548578,egypt_mural,met,548578,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_548580,egypt_mural,met,548580,The Metropolitan Museum of Art,CC0 (Met Open Access),-1349
+met_548582,egypt_mural,met,548582,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_557623,egypt_mural,met,557623,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_557624,egypt_mural,met,557624,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_557634_c,egypt_mural,met,557634,The Metropolitan Museum of Art,CC0 (Met Open Access),-1425
+met_557635,egypt_mural,met,557635,The Metropolitan Museum of Art,CC0 (Met Open Access),-1504
+met_557638,egypt_mural,met,557638,The Metropolitan Museum of Art,CC0 (Met Open Access),-1567
+met_557639,egypt_mural,met,557639,The Metropolitan Museum of Art,CC0 (Met Open Access),-1567
+met_557640,egypt_mural,met,557640,The Metropolitan Museum of Art,CC0 (Met Open Access),-1550
+met_557641,egypt_mural,met,557641,The Metropolitan Museum of Art,CC0 (Met Open Access),-1550
+met_557674,egypt_mural,met,557674,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557675,egypt_mural,met,557675,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557676,egypt_mural,met,557676,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557685,egypt_mural,met,557685,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557687,egypt_mural,met,557687,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557688_c,egypt_mural,met,557688,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557696,egypt_mural,met,557696,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557698,egypt_mural,met,557698,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557707,egypt_mural,met,557707,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557708,egypt_mural,met,557708,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557712,egypt_mural,met,557712,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557715,egypt_mural,met,557715,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557719,egypt_mural,met,557719,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557726,egypt_mural,met,557726,The Metropolitan Museum of Art,CC0 (Met Open Access),-1390
+met_557727,egypt_mural,met,557727,The Metropolitan Museum of Art,CC0 (Met Open Access),-1390
+met_557733,egypt_mural,met,557733,The Metropolitan Museum of Art,CC0 (Met Open Access),-1400
+met_557734,egypt_mural,met,557734,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_557735,egypt_mural,met,557735,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_557736,egypt_mural,met,557736,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_557737,egypt_mural,met,557737,The Metropolitan Museum of Art,CC0 (Met Open Access),-1370
+met_557746,egypt_mural,met,557746,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557750,egypt_mural,met,557750,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557751,egypt_mural,met,557751,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557756,egypt_mural,met,557756,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557765,egypt_mural,met,557765,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557768,egypt_mural,met,557768,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557769,egypt_mural,met,557769,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_557771,egypt_mural,met,557771,The Metropolitan Museum of Art,CC0 (Met Open Access),-1349
+met_557784_c,egypt_mural,met,557784,The Metropolitan Museum of Art,CC0 (Met Open Access),-1327
+met_557785,egypt_mural,met,557785,The Metropolitan Museum of Art,CC0 (Met Open Access),-1327
+met_557793,egypt_mural,met,557793,The Metropolitan Museum of Art,CC0 (Met Open Access),-1323
+met_557794,egypt_mural,met,557794,The Metropolitan Museum of Art,CC0 (Met Open Access),-1323
+met_557795,egypt_mural,met,557795,The Metropolitan Museum of Art,CC0 (Met Open Access),-1323
+met_557797,egypt_mural,met,557797,The Metropolitan Museum of Art,CC0 (Met Open Access),-1295
+met_557800,egypt_mural,met,557800,The Metropolitan Museum of Art,CC0 (Met Open Access),-1279
+met_557801,egypt_mural,met,557801,The Metropolitan Museum of Art,CC0 (Met Open Access),-1279
+met_557804,egypt_mural,met,557804,The Metropolitan Museum of Art,CC0 (Met Open Access),-1294
+met_557811,egypt_mural,met,557811,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_557812,egypt_mural,met,557812,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_557813,egypt_mural,met,557813,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_557829,egypt_mural,met,557829,The Metropolitan Museum of Art,CC0 (Met Open Access),-1279
+met_557830,egypt_mural,met,557830,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_557831,egypt_mural,met,557831,The Metropolitan Museum of Art,CC0 (Met Open Access),-1213
+met_557839,egypt_mural,met,557839,The Metropolitan Museum of Art,CC0 (Met Open Access),-1108
+met_557841,egypt_mural,met,557841,The Metropolitan Museum of Art,CC0 (Met Open Access),-1070
+met_557844,egypt_mural,met,557844,The Metropolitan Museum of Art,CC0 (Met Open Access),-1170
+met_557847,egypt_mural,met,557847,The Metropolitan Museum of Art,CC0 (Met Open Access),-521
+met_566408,egypt_mural,met,566408,The Metropolitan Museum of Art,CC0 (Met Open Access),-1188
+met_566615,egypt_mural,met,566615,The Metropolitan Museum of Art,CC0 (Met Open Access),-1295
+met_566617,egypt_mural,met,566617,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_566618,egypt_mural,met,566618,The Metropolitan Museum of Art,CC0 (Met Open Access),-1352
+met_571708,egypt_mural,met,571708,The Metropolitan Museum of Art,CC0 (Met Open Access),-1550
+met_571795,egypt_mural,met,571795,The Metropolitan Museum of Art,CC0 (Met Open Access),-1349
+cma_104352_t,eu_classical_mural,cma,104352,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_104777,eu_classical_mural,cma,104777,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_106442,eu_classical_mural,cma,106442,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_106843,eu_classical_mural,cma,106843,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107244,eu_classical_mural,cma,107244,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107672,eu_classical_mural,cma,107672,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_108353_c,eu_classical_mural,cma,108353,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_108555,eu_classical_mural,cma,108555,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_109495,eu_classical_mural,cma,109495,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_109507,eu_classical_mural,cma,109507,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_110929,eu_classical_mural,cma,110929,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_111067_t,eu_classical_mural,cma,111067,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_111435,eu_classical_mural,cma,111435,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_112099_c,eu_classical_mural,cma,112099,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_112105,eu_classical_mural,cma,112105,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_113164,eu_classical_mural,cma,113164,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_113202,eu_classical_mural,cma,113202,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_114978,eu_classical_mural,cma,114978,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_114990,eu_classical_mural,cma,114990,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_115783,eu_classical_mural,cma,115783,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_117017,eu_classical_mural,cma,117017,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_119615_c,eu_classical_mural,cma,119615,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_119616,eu_classical_mural,cma,119616,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_119698_t,eu_classical_mural,cma,119698,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120995_t,eu_classical_mural,cma,120995,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120998,eu_classical_mural,cma,120998,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_122223,eu_classical_mural,cma,122223,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_122336,eu_classical_mural,cma,122336,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_122337,eu_classical_mural,cma,122337,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_123670,eu_classical_mural,cma,123670,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124050,eu_classical_mural,cma,124050,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124076,eu_classical_mural,cma,124076,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124087,eu_classical_mural,cma,124087,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124796,eu_classical_mural,cma,124796,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_125093,eu_classical_mural,cma,125093,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_125248_t,eu_classical_mural,cma,125248,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_126768,eu_classical_mural,cma,126768,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_126773,eu_classical_mural,cma,126773,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127572,eu_classical_mural,cma,127572,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_128389,eu_classical_mural,cma,128389,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_128468,eu_classical_mural,cma,128468,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_128841,eu_classical_mural,cma,128841,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_129219,eu_classical_mural,cma,129219,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_129220,eu_classical_mural,cma,129220,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_129803,eu_classical_mural,cma,129803,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130132,eu_classical_mural,cma,130132,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130162,eu_classical_mural,cma,130162,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130392,eu_classical_mural,cma,130392,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130982,eu_classical_mural,cma,130982,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132123,eu_classical_mural,cma,132123,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132647,eu_classical_mural,cma,132647,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_134099,eu_classical_mural,cma,134099,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137195,eu_classical_mural,cma,137195,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137333,eu_classical_mural,cma,137333,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137334,eu_classical_mural,cma,137334,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_138857,eu_classical_mural,cma,138857,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_139532,eu_classical_mural,cma,139532,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_139727_t,eu_classical_mural,cma,139727,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140078,eu_classical_mural,cma,140078,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140149,eu_classical_mural,cma,140149,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140150,eu_classical_mural,cma,140150,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140248_t,eu_classical_mural,cma,140248,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142384,eu_classical_mural,cma,142384,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142473,eu_classical_mural,cma,142473,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142559,eu_classical_mural,cma,142559,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143768,eu_classical_mural,cma,143768,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143876_c,eu_classical_mural,cma,143876,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144302,eu_classical_mural,cma,144302,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144303,eu_classical_mural,cma,144303,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144844,eu_classical_mural,cma,144844,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145452,eu_classical_mural,cma,145452,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148301,eu_classical_mural,cma,148301,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148758,eu_classical_mural,cma,148758,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148971,eu_classical_mural,cma,148971,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148990,eu_classical_mural,cma,148990,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149782_c,eu_classical_mural,cma,149782,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150116,eu_classical_mural,cma,150116,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150389,eu_classical_mural,cma,150389,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150986,eu_classical_mural,cma,150986,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151377,eu_classical_mural,cma,151377,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152842,eu_classical_mural,cma,152842,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153773,eu_classical_mural,cma,153773,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155965,eu_classical_mural,cma,155965,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156420,eu_classical_mural,cma,156420,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156422_c,eu_classical_mural,cma,156422,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156597,eu_classical_mural,cma,156597,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_157158,eu_classical_mural,cma,157158,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_159483,eu_classical_mural,cma,159483,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160082,eu_classical_mural,cma,160082,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162151,eu_classical_mural,cma,162151,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162394,eu_classical_mural,cma,162394,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162738,eu_classical_mural,cma,162738,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_168322_c,eu_classical_mural,cma,168322,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173641_t,eu_classical_mural,cma,173641,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_536590_t,eu_classical_mural,cma,536590,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_536591_t,eu_classical_mural,cma,536591,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_691399,eu_classical_mural,cma,691399,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_74553,eu_classical_mural,cma,74553,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97141,eu_classical_mural,cma,97141,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97148,eu_classical_mural,cma,97148,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97149,eu_classical_mural,cma,97149,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97152,eu_classical_mural,cma,97152,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97157,eu_classical_mural,cma,97157,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97165,eu_classical_mural,cma,97165,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97166,eu_classical_mural,cma,97166,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97176,eu_classical_mural,cma,97176,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97179,eu_classical_mural,cma,97179,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97189,eu_classical_mural,cma,97189,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_97336,eu_classical_mural,cma,97336,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_98268,eu_classical_mural,cma,98268,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_337620,eu_classical_mural,met,337620,The Metropolitan Museum of Art,CC0 (Met Open Access),1862
+met_338415_c,eu_classical_mural,met,338415,The Metropolitan Museum of Art,CC0 (Met Open Access),1584
+met_338595,eu_classical_mural,met,338595,The Metropolitan Museum of Art,CC0 (Met Open Access),1608
+met_338863_t_c,eu_classical_mural,met,338863,The Metropolitan Museum of Art,CC0 (Met Open Access),1697
+met_340938,eu_classical_mural,met,340938,The Metropolitan Museum of Art,CC0 (Met Open Access),1556
+met_343138_c,eu_classical_mural,met,343138,The Metropolitan Museum of Art,CC0 (Met Open Access),1657
+met_352338_c,eu_classical_mural,met,352338,The Metropolitan Museum of Art,CC0 (Met Open Access),1622
+met_357054_c,eu_classical_mural,met,357054,The Metropolitan Museum of Art,CC0 (Met Open Access),1569
+met_363470,eu_classical_mural,met,363470,The Metropolitan Museum of Art,CC0 (Met Open Access),1655
+met_376552_c,eu_classical_mural,met,376552,The Metropolitan Museum of Art,CC0 (Met Open Access),1783
+met_376563,eu_classical_mural,met,376563,The Metropolitan Museum of Art,CC0 (Met Open Access),1783
+met_388573,eu_classical_mural,met,388573,The Metropolitan Museum of Art,CC0 (Met Open Access),1798
+met_422579_c,eu_classical_mural,met,422579,The Metropolitan Museum of Art,CC0 (Met Open Access),1828
+met_435886,eu_classical_mural,met,435886,The Metropolitan Museum of Art,CC0 (Met Open Access),1655
+met_435904_c,eu_classical_mural,met,435904,The Metropolitan Museum of Art,CC0 (Met Open Access),1628
+met_436049,eu_classical_mural,met,436049,The Metropolitan Museum of Art,CC0 (Met Open Access),1633
+met_436261,eu_classical_mural,met,436261,The Metropolitan Museum of Art,CC0 (Met Open Access),1625
+met_436481,eu_classical_mural,met,436481,The Metropolitan Museum of Art,CC0 (Met Open Access),1884
+met_436543_t,eu_classical_mural,met,436543,The Metropolitan Museum of Art,CC0 (Met Open Access),1804
+met_436546_c,eu_classical_mural,met,436546,The Metropolitan Museum of Art,CC0 (Met Open Access),1815
+met_436551,eu_classical_mural,met,436551,The Metropolitan Museum of Art,CC0 (Met Open Access),1805
+met_436761,eu_classical_mural,met,436761,The Metropolitan Museum of Art,CC0 (Met Open Access),1505
+met_436798,eu_classical_mural,met,436798,The Metropolitan Museum of Art,CC0 (Met Open Access),1616
+met_436802_t,eu_classical_mural,met,436802,The Metropolitan Museum of Art,CC0 (Met Open Access),1509
+met_436834,eu_classical_mural,met,436834,The Metropolitan Museum of Art,CC0 (Met Open Access),1513
+met_436903,eu_classical_mural,met,436903,The Metropolitan Museum of Art,CC0 (Met Open Access),1746
+met_436992,eu_classical_mural,met,436992,The Metropolitan Museum of Art,CC0 (Met Open Access),1649
+met_437026,eu_classical_mural,met,437026,The Metropolitan Museum of Art,CC0 (Met Open Access),1455
+met_437097,eu_classical_mural,met,437097,The Metropolitan Museum of Art,CC0 (Met Open Access),1875
+met_437101,eu_classical_mural,met,437101,The Metropolitan Museum of Art,CC0 (Met Open Access),1646
+met_437173_c,eu_classical_mural,met,437173,The Metropolitan Museum of Art,CC0 (Met Open Access),1672
+met_437175,eu_classical_mural,met,437175,The Metropolitan Museum of Art,CC0 (Met Open Access),1679
+met_437192,eu_classical_mural,met,437192,The Metropolitan Museum of Art,CC0 (Met Open Access),1665
+met_437265,eu_classical_mural,met,437265,The Metropolitan Museum of Art,CC0 (Met Open Access),1765
+met_437376,eu_classical_mural,met,437376,The Metropolitan Museum of Art,CC0 (Met Open Access),1669
+met_437386,eu_classical_mural,met,437386,The Metropolitan Museum of Art,CC0 (Met Open Access),1632
+met_437423,eu_classical_mural,met,437423,The Metropolitan Museum of Art,CC0 (Met Open Access),1627
+met_437455,eu_classical_mural,met,437455,The Metropolitan Museum of Art,CC0 (Met Open Access),1648
+met_437462,eu_classical_mural,met,437462,The Metropolitan Museum of Art,CC0 (Met Open Access),1871
+met_437645_t,eu_classical_mural,met,437645,The Metropolitan Museum of Art,CC0 (Met Open Access),1519
+met_437700,eu_classical_mural,met,437700,The Metropolitan Museum of Art,CC0 (Met Open Access),1695
+met_437724,eu_classical_mural,met,437724,The Metropolitan Museum of Art,CC0 (Met Open Access),1469
+met_437729,eu_classical_mural,met,437729,The Metropolitan Museum of Art,CC0 (Met Open Access),1649
+met_437734_c,eu_classical_mural,met,437734,The Metropolitan Museum of Art,CC0 (Met Open Access),1669
+met_437740,eu_classical_mural,met,437740,The Metropolitan Museum of Art,CC0 (Met Open Access),1469
+met_437741,eu_classical_mural,met,437741,The Metropolitan Museum of Art,CC0 (Met Open Access),1499
+met_437742,eu_classical_mural,met,437742,The Metropolitan Museum of Art,CC0 (Met Open Access),1410
+met_437873,eu_classical_mural,met,437873,The Metropolitan Museum of Art,CC0 (Met Open Access),1624
+met_437898,eu_classical_mural,met,437898,The Metropolitan Museum of Art,CC0 (Met Open Access),1783
+met_437969,eu_classical_mural,met,437969,The Metropolitan Museum of Art,CC0 (Met Open Access),1639
+met_437970,eu_classical_mural,met,437970,The Metropolitan Museum of Art,CC0 (Met Open Access),1645
+met_438546,eu_classical_mural,met,438546,The Metropolitan Museum of Art,CC0 (Met Open Access),1809
+met_438624,eu_classical_mural,met,438624,The Metropolitan Museum of Art,CC0 (Met Open Access),1790
+met_459007,eu_classical_mural,met,459007,The Metropolitan Museum of Art,CC0 (Met Open Access),1413
+met_459133,eu_classical_mural,met,459133,The Metropolitan Museum of Art,CC0 (Met Open Access),1346
+met_816629,eu_classical_mural,met,816629,The Metropolitan Museum of Art,CC0 (Met Open Access),1669
+met_925165,eu_classical_mural,met,925165,The Metropolitan Museum of Art,CC0 (Met Open Access),1777
+met_925168_t,eu_classical_mural,met,925168,The Metropolitan Museum of Art,CC0 (Met Open Access),1772
+aic_104463_c,eu_symbolist,aic,104463,Art Institute of Chicago,CC0 (AIC public domain),1898
+aic_110507,eu_symbolist,aic,110507,Art Institute of Chicago,CC0 (AIC public domain),1883
+aic_110982,eu_symbolist,aic,110982,Art Institute of Chicago,CC0 (AIC public domain),1905
+aic_111062,eu_symbolist,aic,111062,Art Institute of Chicago,CC0 (AIC public domain),1891
+aic_12977_c,eu_symbolist,aic,12977,Art Institute of Chicago,CC0 (AIC public domain),1885
+aic_136393,eu_symbolist,aic,136393,Art Institute of Chicago,CC0 (AIC public domain),1885
+aic_150827,eu_symbolist,aic,150827,Art Institute of Chicago,CC0 (AIC public domain),1873
+aic_159071,eu_symbolist,aic,159071,Art Institute of Chicago,CC0 (AIC public domain),1893
+aic_16496_c,eu_symbolist,aic,16496,Art Institute of Chicago,CC0 (AIC public domain),1896
+aic_16551,eu_symbolist,aic,16551,Art Institute of Chicago,CC0 (AIC public domain),1872
+aic_192691_c,eu_symbolist,aic,192691,Art Institute of Chicago,CC0 (AIC public domain),1888
+aic_20534,eu_symbolist,aic,20534,Art Institute of Chicago,CC0 (AIC public domain),1881
+aic_20579_c,eu_symbolist,aic,20579,Art Institute of Chicago,CC0 (AIC public domain),1876
+aic_212300,eu_symbolist,aic,212300,Art Institute of Chicago,CC0 (AIC public domain),1890
+aic_235046,eu_symbolist,aic,235046,Art Institute of Chicago,CC0 (AIC public domain),1899
+aic_2823,eu_symbolist,aic,2823,Art Institute of Chicago,CC0 (AIC public domain),1886
+aic_29395,eu_symbolist,aic,29395,Art Institute of Chicago,CC0 (AIC public domain),1896
+aic_5513,eu_symbolist,aic,5513,Art Institute of Chicago,CC0 (AIC public domain),1897
+aic_59798,eu_symbolist,aic,59798,Art Institute of Chicago,CC0 (AIC public domain),1889
+aic_62393,eu_symbolist,aic,62393,Art Institute of Chicago,CC0 (AIC public domain),1864
+aic_71191,eu_symbolist,aic,71191,Art Institute of Chicago,CC0 (AIC public domain),1887
+aic_76395_c,eu_symbolist,aic,76395,Art Institute of Chicago,CC0 (AIC public domain),1908
+aic_80594_c,eu_symbolist,aic,80594,Art Institute of Chicago,CC0 (AIC public domain),1898
+aic_81566_c,eu_symbolist,aic,81566,Art Institute of Chicago,CC0 (AIC public domain),1889
+aic_8360,eu_symbolist,aic,8360,Art Institute of Chicago,CC0 (AIC public domain),1892
+aic_86308_c,eu_symbolist,aic,86308,Art Institute of Chicago,CC0 (AIC public domain),1894
+aic_94240,eu_symbolist,aic,94240,Art Institute of Chicago,CC0 (AIC public domain),1872
+aic_96841_c,eu_symbolist,aic,96841,Art Institute of Chicago,CC0 (AIC public domain),1876
+aic_97884,eu_symbolist,aic,97884,Art Institute of Chicago,CC0 (AIC public domain),1898
+cma_108544_c,eu_symbolist,cma,108544,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_115067_c,eu_symbolist,cma,115067,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124804,eu_symbolist,cma,124804,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_135469_c,eu_symbolist,cma,135469,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143141,eu_symbolist,cma,143141,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146446,eu_symbolist,cma,146446,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148753_c,eu_symbolist,cma,148753,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149665_c,eu_symbolist,cma,149665,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154283,eu_symbolist,cma,154283,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162397_c,eu_symbolist,cma,162397,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_675150_c,eu_symbolist,cma,675150,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_75763,eu_symbolist,cma,75763,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_81391_c,eu_symbolist,cma,81391,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_84662,eu_symbolist,cma,84662,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_92844,eu_symbolist,cma,92844,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_10042_c,eu_symbolist,met,10042,The Metropolitan Museum of Art,CC0 (Met Open Access),1895
+met_10049,eu_symbolist,met,10049,The Metropolitan Museum of Art,CC0 (Met Open Access),1898
+met_10178,eu_symbolist,met,10178,The Metropolitan Museum of Art,CC0 (Met Open Access),1878
+met_10180,eu_symbolist,met,10180,The Metropolitan Museum of Art,CC0 (Met Open Access),1900
+met_10181_c,eu_symbolist,met,10181,The Metropolitan Museum of Art,CC0 (Met Open Access),1895
+met_10182,eu_symbolist,met,10182,The Metropolitan Museum of Art,CC0 (Met Open Access),1900
+met_10183,eu_symbolist,met,10183,The Metropolitan Museum of Art,CC0 (Met Open Access),1886
+met_11369,eu_symbolist,met,11369,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_11375,eu_symbolist,met,11375,The Metropolitan Museum of Art,CC0 (Met Open Access),1887
+met_11380_c,eu_symbolist,met,11380,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_11381_c,eu_symbolist,met,11381,The Metropolitan Museum of Art,CC0 (Met Open Access),1884
+met_11383,eu_symbolist,met,11383,The Metropolitan Museum of Art,CC0 (Met Open Access),1859
+met_11386,eu_symbolist,met,11386,The Metropolitan Museum of Art,CC0 (Met Open Access),1883
+met_11387,eu_symbolist,met,11387,The Metropolitan Museum of Art,CC0 (Met Open Access),1896
+met_11388,eu_symbolist,met,11388,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_11974,eu_symbolist,met,11974,The Metropolitan Museum of Art,CC0 (Met Open Access),1900
+met_11975,eu_symbolist,met,11975,The Metropolitan Museum of Art,CC0 (Met Open Access),1883
+met_11977,eu_symbolist,met,11977,The Metropolitan Museum of Art,CC0 (Met Open Access),1908
+met_11978,eu_symbolist,met,11978,The Metropolitan Museum of Art,CC0 (Met Open Access),1898
+met_11979,eu_symbolist,met,11979,The Metropolitan Museum of Art,CC0 (Met Open Access),1890
+met_11980,eu_symbolist,met,11980,The Metropolitan Museum of Art,CC0 (Met Open Access),1880
+met_11981,eu_symbolist,met,11981,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_12856,eu_symbolist,met,12856,The Metropolitan Museum of Art,CC0 (Met Open Access),1916
+met_13061,eu_symbolist,met,13061,The Metropolitan Museum of Art,CC0 (Met Open Access),1890
+met_13065,eu_symbolist,met,13065,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_13070_c,eu_symbolist,met,13070,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_337500,eu_symbolist,met,337500,The Metropolitan Museum of Art,CC0 (Met Open Access),1867
+met_337812_c,eu_symbolist,met,337812,The Metropolitan Museum of Art,CC0 (Met Open Access),1888
+met_340951,eu_symbolist,met,340951,The Metropolitan Museum of Art,CC0 (Met Open Access),1898
+met_340952_c,eu_symbolist,met,340952,The Metropolitan Museum of Art,CC0 (Met Open Access),1879
+met_340953,eu_symbolist,met,340953,The Metropolitan Museum of Art,CC0 (Met Open Access),1889
+met_341201,eu_symbolist,met,341201,The Metropolitan Museum of Art,CC0 (Met Open Access),1915
+met_366331_c,eu_symbolist,met,366331,The Metropolitan Museum of Art,CC0 (Met Open Access),1900
+met_435683,eu_symbolist,met,435683,The Metropolitan Museum of Art,CC0 (Met Open Access),1880
+met_435684,eu_symbolist,met,435684,The Metropolitan Museum of Art,CC0 (Met Open Access),1852
+met_435826,eu_symbolist,met,435826,The Metropolitan Museum of Art,CC0 (Met Open Access),1877
+met_435855,eu_symbolist,met,435855,The Metropolitan Museum of Art,CC0 (Met Open Access),1901
+met_435856,eu_symbolist,met,435856,The Metropolitan Museum of Art,CC0 (Met Open Access),1898
+met_436448_c,eu_symbolist,met,436448,The Metropolitan Museum of Art,CC0 (Met Open Access),1894
+met_436819,eu_symbolist,met,436819,The Metropolitan Museum of Art,CC0 (Met Open Access),1913
+met_436820,eu_symbolist,met,436820,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_437153,eu_symbolist,met,437153,The Metropolitan Museum of Art,CC0 (Met Open Access),1864
+met_437343,eu_symbolist,met,437343,The Metropolitan Museum of Art,CC0 (Met Open Access),1889
+met_437344,eu_symbolist,met,437344,The Metropolitan Museum of Art,CC0 (Met Open Access),1891
+met_437345_c,eu_symbolist,met,437345,The Metropolitan Museum of Art,CC0 (Met Open Access),1869
+met_437346_c,eu_symbolist,met,437346,The Metropolitan Museum of Art,CC0 (Met Open Access),1900
+met_437347_c,eu_symbolist,met,437347,The Metropolitan Museum of Art,CC0 (Met Open Access),1894
+met_437349,eu_symbolist,met,437349,The Metropolitan Museum of Art,CC0 (Met Open Access),1870
+met_437377_c,eu_symbolist,met,437377,The Metropolitan Museum of Art,CC0 (Met Open Access),1901
+met_437378,eu_symbolist,met,437378,The Metropolitan Museum of Art,CC0 (Met Open Access),1916
+met_437379_c,eu_symbolist,met,437379,The Metropolitan Museum of Art,CC0 (Met Open Access),1905
+met_437381_c,eu_symbolist,met,437381,The Metropolitan Museum of Art,CC0 (Met Open Access),1910
+met_437382_c,eu_symbolist,met,437382,The Metropolitan Museum of Art,CC0 (Met Open Access),1911
+met_437383,eu_symbolist,met,437383,The Metropolitan Museum of Art,CC0 (Met Open Access),1919
+met_437995,eu_symbolist,met,437995,The Metropolitan Museum of Art,CC0 (Met Open Access),1883
+met_437996,eu_symbolist,met,437996,The Metropolitan Museum of Art,CC0 (Met Open Access),1888
+met_437999,eu_symbolist,met,437999,The Metropolitan Museum of Art,CC0 (Met Open Access),1896
+met_460053,eu_symbolist,met,460053,The Metropolitan Museum of Art,CC0 (Met Open Access),1898
+met_496203_c,eu_symbolist,met,496203,The Metropolitan Museum of Art,CC0 (Met Open Access),1895
+met_634108,eu_symbolist,met,634108,The Metropolitan Museum of Art,CC0 (Met Open Access),1896
+met_679686_c,eu_symbolist,met,679686,The Metropolitan Museum of Art,CC0 (Met Open Access),1884
+met_782308_c,eu_symbolist,met,782308,The Metropolitan Museum of Art,CC0 (Met Open Access),1881
+met_845726,eu_symbolist,met,845726,The Metropolitan Museum of Art,CC0 (Met Open Access),1905
+met_853662,eu_symbolist,met,853662,The Metropolitan Museum of Art,CC0 (Met Open Access),1887
+nga_116570,eu_symbolist,nga,116570,"National Gallery of Art, Washington",CC0 (NGA Open Access),1890
+nga_117958,eu_symbolist,nga,117958,"National Gallery of Art, Washington",CC0 (NGA Open Access),1868
+nga_157928,eu_symbolist,nga,157928,"National Gallery of Art, Washington",CC0 (NGA Open Access),1880
+nga_166443,eu_symbolist,nga,166443,"National Gallery of Art, Washington",CC0 (NGA Open Access),1911
+nga_166460_c,eu_symbolist,nga,166460,"National Gallery of Art, Washington",CC0 (NGA Open Access),1866
+nga_166476_c,eu_symbolist,nga,166476,"National Gallery of Art, Washington",CC0 (NGA Open Access),1914
+nga_177627,eu_symbolist,nga,177627,"National Gallery of Art, Washington",CC0 (NGA Open Access),1895
+nga_177895,eu_symbolist,nga,177895,"National Gallery of Art, Washington",CC0 (NGA Open Access),1925
+nga_177906,eu_symbolist,nga,177906,"National Gallery of Art, Washington",CC0 (NGA Open Access),1900
+nga_180698,eu_symbolist,nga,180698,"National Gallery of Art, Washington",CC0 (NGA Open Access),1915
+nga_194635_c,eu_symbolist,nga,194635,"National Gallery of Art, Washington",CC0 (NGA Open Access),1896
+nga_229829,eu_symbolist,nga,229829,"National Gallery of Art, Washington",CC0 (NGA Open Access),1900
+nga_3204,eu_symbolist,nga,3204,"National Gallery of Art, Washington",CC0 (NGA Open Access),1949
+nga_32624_c,eu_symbolist,nga,32624,"National Gallery of Art, Washington",CC0 (NGA Open Access),1891
+nga_39760,eu_symbolist,nga,39760,"National Gallery of Art, Washington",CC0 (NGA Open Access),1899
+nga_42928,eu_symbolist,nga,42928,"National Gallery of Art, Washington",CC0 (NGA Open Access),1889
+nga_46299,eu_symbolist,nga,46299,"National Gallery of Art, Washington",CC0 (NGA Open Access),1905
+nga_46531_c,eu_symbolist,nga,46531,"National Gallery of Art, Washington",CC0 (NGA Open Access),1912
+nga_46532_c,eu_symbolist,nga,46532,"National Gallery of Art, Washington",CC0 (NGA Open Access),1912
+nga_46624_c,eu_symbolist,nga,46624,"National Gallery of Art, Washington",CC0 (NGA Open Access),1892
+nga_46625,eu_symbolist,nga,46625,"National Gallery of Art, Washington",CC0 (NGA Open Access),1889
+nga_46675,eu_symbolist,nga,46675,"National Gallery of Art, Washington",CC0 (NGA Open Access),1879
+nga_46678,eu_symbolist,nga,46678,"National Gallery of Art, Washington",CC0 (NGA Open Access),1912
+nga_52200,eu_symbolist,nga,52200,"National Gallery of Art, Washington",CC0 (NGA Open Access),1910
+nga_53129,eu_symbolist,nga,53129,"National Gallery of Art, Washington",CC0 (NGA Open Access),1890
+nga_55818,eu_symbolist,nga,55818,"National Gallery of Art, Washington",CC0 (NGA Open Access),1884
+nga_56662,eu_symbolist,nga,56662,"National Gallery of Art, Washington",CC0 (NGA Open Access),1918
+nga_56702,eu_symbolist,nga,56702,"National Gallery of Art, Washington",CC0 (NGA Open Access),1886
+nga_71236,eu_symbolist,nga,71236,"National Gallery of Art, Washington",CC0 (NGA Open Access),1870
+nga_72856,eu_symbolist,nga,72856,"National Gallery of Art, Washington",CC0 (NGA Open Access),1881
+nga_72915_c,eu_symbolist,nga,72915,"National Gallery of Art, Washington",CC0 (NGA Open Access),1880
+nga_76152_c,eu_symbolist,nga,76152,"National Gallery of Art, Washington",CC0 (NGA Open Access),1874
+nga_83440_c,eu_symbolist,nga,83440,"National Gallery of Art, Washington",CC0 (NGA Open Access),1913
+nga_83443,eu_symbolist,nga,83443,"National Gallery of Art, Washington",CC0 (NGA Open Access),1877
+nga_89684,eu_symbolist,nga,89684,"National Gallery of Art, Washington",CC0 (NGA Open Access),1890
+cma_103356_t_c,jp_nihonga,cma,103356,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_103360_c,jp_nihonga,cma,103360,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_106959_t_c,jp_nihonga,cma,106959,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_106960_c,jp_nihonga,cma,106960,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_106962_t_c,jp_nihonga,cma,106962,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_111647_t_c,jp_nihonga,cma,111647,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_111651_t_c,jp_nihonga,cma,111651,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_111654_c,jp_nihonga,cma,111654,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_118798_c,jp_nihonga,cma,118798,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_118799_t_c,jp_nihonga,cma,118799,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120225_t_c,jp_nihonga,cma,120225,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120239_t_c,jp_nihonga,cma,120239,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120240_t_c,jp_nihonga,cma,120240,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_120456,jp_nihonga,cma,120456,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_121643_t_c,jp_nihonga,cma,121643,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_123177_t_c,jp_nihonga,cma,123177,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127047_c,jp_nihonga,cma,127047,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_127238,jp_nihonga,cma,127238,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_128950_c,jp_nihonga,cma,128950,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_133012,jp_nihonga,cma,133012,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136952,jp_nihonga,cma,136952,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137044_t,jp_nihonga,cma,137044,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137219_c,jp_nihonga,cma,137219,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_139454,jp_nihonga,cma,139454,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140085,jp_nihonga,cma,140085,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140096_c,jp_nihonga,cma,140096,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140157,jp_nihonga,cma,140157,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140158,jp_nihonga,cma,140158,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140321,jp_nihonga,cma,140321,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_140476_c,jp_nihonga,cma,140476,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145418_c_c,jp_nihonga,cma,145418,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145421_c,jp_nihonga,cma,145421,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145422,jp_nihonga,cma,145422,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145427_c,jp_nihonga,cma,145427,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_145958,jp_nihonga,cma,145958,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146011,jp_nihonga,cma,146011,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148358,jp_nihonga,cma,148358,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148359,jp_nihonga,cma,148359,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148382_t,jp_nihonga,cma,148382,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148810_c,jp_nihonga,cma,148810,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149097_t,jp_nihonga,cma,149097,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149417_c,jp_nihonga,cma,149417,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149661_t_c,jp_nihonga,cma,149661,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150419_c,jp_nihonga,cma,150419,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150676_c,jp_nihonga,cma,150676,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150701,jp_nihonga,cma,150701,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151078_c,jp_nihonga,cma,151078,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151369_c,jp_nihonga,cma,151369,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151480,jp_nihonga,cma,151480,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151529,jp_nihonga,cma,151529,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152184,jp_nihonga,cma,152184,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152251_c,jp_nihonga,cma,152251,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152333_c,jp_nihonga,cma,152333,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152424_c,jp_nihonga,cma,152424,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152426_c,jp_nihonga,cma,152426,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152427_c,jp_nihonga,cma,152427,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152430_t,jp_nihonga,cma,152430,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152432,jp_nihonga,cma,152432,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152435_c,jp_nihonga,cma,152435,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152441,jp_nihonga,cma,152441,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152448_c,jp_nihonga,cma,152448,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152499_t_c,jp_nihonga,cma,152499,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154003_c,jp_nihonga,cma,154003,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154004,jp_nihonga,cma,154004,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154005,jp_nihonga,cma,154005,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154073,jp_nihonga,cma,154073,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155615_c,jp_nihonga,cma,155615,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155624_c,jp_nihonga,cma,155624,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155642,jp_nihonga,cma,155642,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156866_c,jp_nihonga,cma,156866,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_156867_c,jp_nihonga,cma,156867,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_159739_c,jp_nihonga,cma,159739,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_172573,jp_nihonga,cma,172573,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173072_c,jp_nihonga,cma,173072,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_304484,jp_nihonga,cma,304484,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_676387,jp_nihonga,cma,676387,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_707619_c,jp_nihonga,cma,707619,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_90267_c,jp_nihonga,cma,90267,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_95396_c,jp_nihonga,cma,95396,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_98293_c,jp_nihonga,cma,98293,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_37334_c,jp_nihonga,met,37334,The Metropolitan Museum of Art,CC0 (Met Open Access),1756
+met_44507,jp_nihonga,met,44507,The Metropolitan Museum of Art,CC0 (Met Open Access),1194
+met_44509,jp_nihonga,met,44509,The Metropolitan Museum of Art,CC0 (Met Open Access),1194
+met_54566_c,jp_nihonga,met,54566,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_752007,jp_nihonga,met,752007,The Metropolitan Museum of Art,CC0 (Met Open Access),1573
+met_784285,jp_nihonga,met,784285,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_839905_c_c,jp_nihonga,met,839905,The Metropolitan Museum of Art,CC0 (Met Open Access),1594
+met_853239,jp_nihonga,met,853239,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_906843_c,jp_nihonga,met,906843,The Metropolitan Museum of Art,CC0 (Met Open Access),1759
+cma_149683_t_c,kr_picturebook,cma,149683,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152317,kr_picturebook,cma,152317,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153339,kr_picturebook,cma,153339,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153663_c,kr_picturebook,cma,153663,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153664_t,kr_picturebook,cma,153664,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155097_c,kr_picturebook,cma,155097,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155431_t,kr_picturebook,cma,155431,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_157007_c,kr_picturebook,cma,157007,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_159835_c,kr_picturebook,cma,159835,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_159836,kr_picturebook,cma,159836,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160208_c,kr_picturebook,cma,160208,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160860_t,kr_picturebook,cma,160860,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_161266,kr_picturebook,cma,161266,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_161268,kr_picturebook,cma,161268,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_172781_c,kr_picturebook,cma,172781,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_172782_t,kr_picturebook,cma,172782,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_172805,kr_picturebook,cma,172805,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_172814,kr_picturebook,cma,172814,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_310353_t,kr_picturebook,cma,310353,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_374816_t,kr_picturebook,cma,374816,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_688675,kr_picturebook,cma,688675,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_709678,kr_picturebook,cma,709678,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_79932,kr_picturebook,cma,79932,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_90249,kr_picturebook,cma,90249,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_98867_c,kr_picturebook,cma,98867,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_99450,kr_picturebook,cma,99450,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_36029,kr_picturebook,met,36029,The Metropolitan Museum of Art,CC0 (Met Open Access),1349
+met_36457,kr_picturebook,met,36457,The Metropolitan Museum of Art,CC0 (Met Open Access),1599
+met_39881,kr_picturebook,met,39881,The Metropolitan Museum of Art,CC0 (Met Open Access),1349
+met_39883,kr_picturebook,met,39883,The Metropolitan Museum of Art,CC0 (Met Open Access),1349
+met_39887,kr_picturebook,met,39887,The Metropolitan Museum of Art,CC0 (Met Open Access),1599
+met_39889_t,kr_picturebook,met,39889,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_40069,kr_picturebook,met,40069,The Metropolitan Museum of Art,CC0 (Met Open Access),1699
+met_40070,kr_picturebook,met,40070,The Metropolitan Museum of Art,CC0 (Met Open Access),1699
+met_40073,kr_picturebook,met,40073,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_40451,kr_picturebook,met,40451,The Metropolitan Museum of Art,CC0 (Met Open Access),1499
+met_45063,kr_picturebook,met,45063,The Metropolitan Museum of Art,CC0 (Met Open Access),1867
+met_50360,kr_picturebook,met,50360,The Metropolitan Museum of Art,CC0 (Met Open Access),1392
+met_50486_c,kr_picturebook,met,50486,The Metropolitan Museum of Art,CC0 (Met Open Access),1633
+met_656430,kr_picturebook,met,656430,The Metropolitan Museum of Art,CC0 (Met Open Access),1815
+met_676034_t_c,kr_picturebook,met,676034,The Metropolitan Museum of Art,CC0 (Met Open Access),1874
+met_73188_t_c,kr_picturebook,met,73188,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_76764,kr_picturebook,met,76764,The Metropolitan Museum of Art,CC0 (Met Open Access),1833
+met_853197,kr_picturebook,met,853197,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_853891,kr_picturebook,met,853891,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_860959,kr_picturebook,met,860959,The Metropolitan Museum of Art,CC0 (Met Open Access),1599
+met_910553,kr_picturebook,met,910553,The Metropolitan Museum of Art,CC0 (Met Open Access),1699
+met_929070_c,kr_picturebook,met,929070,The Metropolitan Museum of Art,CC0 (Met Open Access),1499
+met_929071,kr_picturebook,met,929071,The Metropolitan Museum of Art,CC0 (Met Open Access),1533
+met_929072_c,kr_picturebook,met,929072,The Metropolitan Museum of Art,CC0 (Met Open Access),1533
+met_929073_c,kr_picturebook,met,929073,The Metropolitan Museum of Art,CC0 (Met Open Access),1699
+met_929074_c,kr_picturebook,met,929074,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_929075_c,kr_picturebook,met,929075,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_929077,kr_picturebook,met,929077,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_929082_c,kr_picturebook,met,929082,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_929083,kr_picturebook,met,929083,The Metropolitan Museum of Art,CC0 (Met Open Access),1799
+met_955314_c,kr_picturebook,met,955314,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+cma_114147,latam_mural,cma,114147,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_114148,latam_mural,cma,114148,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_138881,latam_mural,cma,138881,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173180,latam_mural,cma,173180,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_320804,latam_mural,met,320804,The Metropolitan Museum of Art,CC0 (Met Open Access),1700
+met_321291,latam_mural,met,321291,The Metropolitan Museum of Art,CC0 (Met Open Access),550
+met_372097_c,latam_mural,met,372097,The Metropolitan Museum of Art,CC0 (Met Open Access),1896
+met_437323,latam_mural,met,437323,The Metropolitan Museum of Art,CC0 (Met Open Access),1650
+met_717597,latam_mural,met,717597,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_717606,latam_mural,met,717606,The Metropolitan Museum of Art,CC0 (Met Open Access),1895
+met_717617,latam_mural,met,717617,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_717619,latam_mural,met,717619,The Metropolitan Museum of Art,CC0 (Met Open Access),1901
+met_717622_c,latam_mural,met,717622,The Metropolitan Museum of Art,CC0 (Met Open Access),1901
+met_717630_c,latam_mural,met,717630,The Metropolitan Museum of Art,CC0 (Met Open Access),1901
+met_717760,latam_mural,met,717760,The Metropolitan Museum of Art,CC0 (Met Open Access),1910
+met_735208,latam_mural,met,735208,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_735263,latam_mural,met,735263,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_735265,latam_mural,met,735265,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735269,latam_mural,met,735269,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735272,latam_mural,met,735272,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735285,latam_mural,met,735285,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735294,latam_mural,met,735294,The Metropolitan Museum of Art,CC0 (Met Open Access),1892
+met_735295,latam_mural,met,735295,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735296_t,latam_mural,met,735296,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_735297_c,latam_mural,met,735297,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735300,latam_mural,met,735300,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735303,latam_mural,met,735303,The Metropolitan Museum of Art,CC0 (Met Open Access),1909
+met_735304_t,latam_mural,met,735304,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_735311,latam_mural,met,735311,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_735415,latam_mural,met,735415,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+met_735905_c,latam_mural,met,735905,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735921_t,latam_mural,met,735921,The Metropolitan Museum of Art,CC0 (Met Open Access),1885
+met_735938_t,latam_mural,met,735938,The Metropolitan Museum of Art,CC0 (Met Open Access),0
+met_736573,latam_mural,met,736573,The Metropolitan Museum of Art,CC0 (Met Open Access),1910
+aic_154235,nordic,aic,154235,Art Institute of Chicago,CC0 (AIC public domain),1893
+aic_160229,nordic,aic,160229,Art Institute of Chicago,CC0 (AIC public domain),1839
+aic_187064,nordic,aic,187064,Art Institute of Chicago,CC0 (AIC public domain),1887
+aic_187065_c,nordic,aic,187065,Art Institute of Chicago,CC0 (AIC public domain),1892
+aic_187067,nordic,aic,187067,Art Institute of Chicago,CC0 (AIC public domain),1882
+aic_196029,nordic,aic,196029,Art Institute of Chicago,CC0 (AIC public domain),1883
+aic_270002,nordic,aic,270002,Art Institute of Chicago,CC0 (AIC public domain),1907
+aic_81576,nordic,aic,81576,Art Institute of Chicago,CC0 (AIC public domain),1893
+cma_117910,nordic,cma,117910,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_87891,nordic,cma,87891,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_437964,nordic,met,437964,The Metropolitan Museum of Art,CC0 (Met Open Access),1894
+met_437966,nordic,met,437966,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_438949,nordic,met,438949,The Metropolitan Museum of Art,CC0 (Met Open Access),1838
+met_438952,nordic,met,438952,The Metropolitan Museum of Art,CC0 (Met Open Access),1839
+met_439343,nordic,met,439343,The Metropolitan Museum of Art,CC0 (Met Open Access),1846
+met_439344,nordic,met,439344,The Metropolitan Museum of Art,CC0 (Met Open Access),1823
+met_441379,nordic,met,441379,The Metropolitan Museum of Art,CC0 (Met Open Access),1848
+met_441933,nordic,met,441933,The Metropolitan Museum of Art,CC0 (Met Open Access),1906
+met_441967_c,nordic,met,441967,The Metropolitan Museum of Art,CC0 (Met Open Access),1844
+met_839041,nordic,met,839041,The Metropolitan Museum of Art,CC0 (Met Open Access),1837
+met_839044,nordic,met,839044,The Metropolitan Museum of Art,CC0 (Met Open Access),1839
+met_852668,nordic,met,852668,The Metropolitan Museum of Art,CC0 (Met Open Access),1899
+nga_110104,nordic,nga,110104,"National Gallery of Art, Washington",CC0 (NGA Open Access),1827
+smk_DEP1245,nordic,smk,DEP1245,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1904
+smk_DEP289,nordic,smk,DEP289,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1885
+smk_DEP537,nordic,smk,DEP537,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1897
+smk_DEP691,nordic,smk,DEP691,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1834
+smk_DEP713,nordic,smk,DEP713,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1908
+smk_DEP976,nordic,smk,DEP976,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1877
+smk_KKS1964-282,nordic,smk,KKS1964-282,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1844
+smk_KKS1977-356,nordic,smk,KKS1977-356,SMK - National Gallery of Denmark,Public Domain Mark 1.0,
+smk_KKS1977-392,nordic,smk,KKS1977-392,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1900
+smk_KKS1990-51_c,nordic,smk,KKS1990-51,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1830
+smk_KKSgb4547,nordic,smk,KKSgb4547,SMK - National Gallery of Denmark,Public Domain Mark 1.0,
+smk_KKSgb4951,nordic,smk,KKSgb4951,SMK - National Gallery of Denmark,Public Domain Mark 1.0,
+smk_KKSgb6167,nordic,smk,KKSgb6167,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1829
+smk_KKSgb6181,nordic,smk,KKSgb6181,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1832
+smk_KKSgb6183,nordic,smk,KKSgb6183,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1833
+smk_KKSgb98_c,nordic,smk,KKSgb98,SMK - National Gallery of Denmark,Public Domain Mark 1.0,
+smk_KMS1072,nordic,smk,KMS1072,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1837
+smk_KMS1075,nordic,smk,KMS1075,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1874
+smk_KMS1082,nordic,smk,KMS1082,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1858
+smk_KMS1121_c,nordic,smk,KMS1121,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1878
+smk_KMS1123,nordic,smk,KMS1123,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1838
+smk_KMS1125_c,nordic,smk,KMS1125,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1836
+smk_KMS1222,nordic,smk,KMS1222,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1883
+smk_KMS1233_c,nordic,smk,KMS1233,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1883
+smk_KMS1241,nordic,smk,KMS1241,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1818
+smk_KMS125,nordic,smk,KMS125,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1827
+smk_KMS1252,nordic,smk,KMS1252,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1818
+smk_KMS1253,nordic,smk,KMS1253,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1819
+smk_KMS1286,nordic,smk,KMS1286,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1833
+smk_KMS1288,nordic,smk,KMS1288,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1886
+smk_KMS1290,nordic,smk,KMS1290,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1817
+smk_KMS1304,nordic,smk,KMS1304,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1887
+smk_KMS1336,nordic,smk,KMS1336,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1888
+smk_KMS1345,nordic,smk,KMS1345,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1830
+smk_KMS1353,nordic,smk,KMS1353,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1886
+smk_KMS1360_c,nordic,smk,KMS1360,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1889
+smk_KMS1372,nordic,smk,KMS1372,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1832
+smk_KMS1431,nordic,smk,KMS1431,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1890
+smk_KMS1433_c,nordic,smk,KMS1433,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1891
+smk_KMS1434,nordic,smk,KMS1434,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1890
+smk_KMS1435,nordic,smk,KMS1435,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1890
+smk_KMS1436_c,nordic,smk,KMS1436,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1891
+smk_KMS1483,nordic,smk,KMS1483,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1894
+smk_KMS1564_c,nordic,smk,KMS1564,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1898
+smk_KMS1568,nordic,smk,KMS1568,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1896
+smk_KMS1570,nordic,smk,KMS1570,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1896
+smk_KMS1571,nordic,smk,KMS1571,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1896
+smk_KMS1623,nordic,smk,KMS1623,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1813
+smk_KMS1626,nordic,smk,KMS1626,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1899
+smk_KMS1632,nordic,smk,KMS1632,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1899
+smk_KMS1652,nordic,smk,KMS1652,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1831
+smk_KMS1653,nordic,smk,KMS1653,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1832
+smk_KMS1662,nordic,smk,KMS1662,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1831
+smk_KMS1663,nordic,smk,KMS1663,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1827
+smk_KMS167,nordic,smk,KMS167,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1829
+smk_KMS1670,nordic,smk,KMS1670,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1834
+smk_KMS1671,nordic,smk,KMS1671,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1826
+smk_KMS1674,nordic,smk,KMS1674,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1901
+smk_KMS1691,nordic,smk,KMS1691,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1881
+smk_KMS1702,nordic,smk,KMS1702,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1844
+smk_KMS1717,nordic,smk,KMS1717,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1898
+smk_KMS1739,nordic,smk,KMS1739,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1847
+smk_KMS1756,nordic,smk,KMS1756,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1903
+smk_KMS1757,nordic,smk,KMS1757,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1902
+smk_KMS1769,nordic,smk,KMS1769,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1813
+smk_KMS1787,nordic,smk,KMS1787,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1879
+smk_KMS1834,nordic,smk,KMS1834,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1882
+smk_KMS1835_c,nordic,smk,KMS1835,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1897
+smk_KMS1838,nordic,smk,KMS1838,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1875
+smk_KMS1845,nordic,smk,KMS1845,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1904
+smk_KMS1942_c,nordic,smk,KMS1942,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1906
+smk_KMS1949,nordic,smk,KMS1949,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1859
+smk_KMS1950,nordic,smk,KMS1950,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1886
+smk_KMS1999,nordic,smk,KMS1999,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1825
+smk_KMS2018,nordic,smk,KMS2018,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1906
+smk_KMS2031_c,nordic,smk,KMS2031,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1875
+smk_KMS2050,nordic,smk,KMS2050,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1908
+smk_KMS2052_c,nordic,smk,KMS2052,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1907
+smk_KMS206,nordic,smk,KMS206,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1831
+smk_KMS2060,nordic,smk,KMS2060,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1833
+smk_KMS2061,nordic,smk,KMS2061,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1840
+smk_KMS216,nordic,smk,KMS216,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1832
+smk_KMS280,nordic,smk,KMS280,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1826
+smk_KMS3004_c,nordic,smk,KMS3004,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1826
+smk_KMS3108,nordic,smk,KMS3108,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1879
+smk_KMS3109,nordic,smk,KMS3109,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1891
+smk_KMS3120_c,nordic,smk,KMS3120,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1910
+smk_KMS3123,nordic,smk,KMS3123,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1815
+smk_KMS3136,nordic,smk,KMS3136,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1832
+smk_KMS3138,nordic,smk,KMS3138,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1877
+smk_KMS3144,nordic,smk,KMS3144,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1845
+smk_KMS3148,nordic,smk,KMS3148,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1836
+smk_KMS3156,nordic,smk,KMS3156,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1834
+smk_KMS3160,nordic,smk,KMS3160,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1835
+smk_KMS3184,nordic,smk,KMS3184,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1902
+smk_KMS3186,nordic,smk,KMS3186,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1816
+smk_KMS3192,nordic,smk,KMS3192,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1912
+smk_KMS3248,nordic,smk,KMS3248,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1834
+smk_KMS3262,nordic,smk,KMS3262,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1827
+smk_KMS3333,nordic,smk,KMS3333,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1890
+smk_KMS3335,nordic,smk,KMS3335,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1892
+smk_KMS3336,nordic,smk,KMS3336,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1827
+smk_KMS3388,nordic,smk,KMS3388,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1850
+smk_KMS3459,nordic,smk,KMS3459,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1884
+smk_KMS3480,nordic,smk,KMS3480,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1833
+smk_KMS3487,nordic,smk,KMS3487,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1855
+smk_KMS3488,nordic,smk,KMS3488,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1816
+smk_KMS3577,nordic,smk,KMS3577,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1838
+smk_KMS3613,nordic,smk,KMS3613,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1845
+smk_KMS3669,nordic,smk,KMS3669,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1880
+smk_KMS3679,nordic,smk,KMS3679,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1839
+smk_KMS3688,nordic,smk,KMS3688,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1882
+smk_KMS3695,nordic,smk,KMS3695,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1884
+smk_KMS3696,nordic,smk,KMS3696,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1901
+smk_KMS3716,nordic,smk,KMS3716,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1897
+smk_KMS3767_c,nordic,smk,KMS3767,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1845
+smk_KMS3776,nordic,smk,KMS3776,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1893
+smk_KMS3820,nordic,smk,KMS3820,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1889
+smk_KMS3827,nordic,smk,KMS3827,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1901
+smk_KMS3879,nordic,smk,KMS3879,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1903
+smk_KMS3946,nordic,smk,KMS3946,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1839
+smk_KMS3952,nordic,smk,KMS3952,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1847
+smk_KMS4002,nordic,smk,KMS4002,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1882
+smk_KMS4043,nordic,smk,KMS4043,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1889
+smk_KMS4081_c,nordic,smk,KMS4081,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1831
+smk_KMS4195,nordic,smk,KMS4195,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1902
+smk_KMS4313,nordic,smk,KMS4313,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1870
+smk_KMS4334,nordic,smk,KMS4334,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1854
+smk_KMS4359,nordic,smk,KMS4359,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1890
+smk_KMS448,nordic,smk,KMS448,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1844
+smk_KMS4580,nordic,smk,KMS4580,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1857
+smk_KMS4582,nordic,smk,KMS4582,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1846
+smk_KMS4776,nordic,smk,KMS4776,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1891
+smk_KMS4794_c,nordic,smk,KMS4794,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1833
+smk_KMS504,nordic,smk,KMS504,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1845
+smk_KMS535,nordic,smk,KMS535,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1848
+smk_KMS550,nordic,smk,KMS550,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1821
+smk_KMS62,nordic,smk,KMS62,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1827
+smk_KMS6331,nordic,smk,KMS6331,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1814
+smk_KMS6346_c,nordic,smk,KMS6346,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1832
+smk_KMS6374,nordic,smk,KMS6374,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1849
+smk_KMS6479,nordic,smk,KMS6479,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1845
+smk_KMS6640,nordic,smk,KMS6640,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1840
+smk_KMS6650,nordic,smk,KMS6650,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1842
+smk_KMS6657,nordic,smk,KMS6657,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1902
+smk_KMS6691,nordic,smk,KMS6691,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1894
+smk_KMS6762,nordic,smk,KMS6762,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1843
+smk_KMS6769,nordic,smk,KMS6769,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1816
+smk_KMS6815,nordic,smk,KMS6815,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1834
+smk_KMS6827,nordic,smk,KMS6827,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1844
+smk_KMS6990,nordic,smk,KMS6990,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1901
+smk_KMS7280,nordic,smk,KMS7280,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1830
+smk_KMS738,nordic,smk,KMS738,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1855
+smk_KMS7414,nordic,smk,KMS7414,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1847
+smk_KMS7452,nordic,smk,KMS7452,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1827
+smk_KMS7594,nordic,smk,KMS7594,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1830
+smk_KMS7599,nordic,smk,KMS7599,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1831
+smk_KMS7694,nordic,smk,KMS7694,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1810
+smk_KMS8003,nordic,smk,KMS8003,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1830
+smk_KMS8272,nordic,smk,KMS8272,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1893
+smk_KMS8273,nordic,smk,KMS8273,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1899
+smk_KMS8274_c,nordic,smk,KMS8274,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1905
+smk_KMS838,nordic,smk,KMS838,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1824
+smk_KMS8654_c,nordic,smk,KMS8654,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1909
+smk_KMS9107,nordic,smk,KMS9107,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1888
+smk_KMS957,nordic,smk,KMS957,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1847
+smk_kms6935,nordic,smk,kms6935,SMK - National Gallery of Denmark,Public Domain Mark 1.0,1875
+cma_101355,sasia_traditional,cma,101355,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_101356,sasia_traditional,cma,101356,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_101358,sasia_traditional,cma,101358,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_107359,sasia_traditional,cma,107359,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_112858,sasia_traditional,cma,112858,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_113026,sasia_traditional,cma,113026,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_114613_t,sasia_traditional,cma,114613,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_114614,sasia_traditional,cma,114614,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_114618,sasia_traditional,cma,114618,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_115988,sasia_traditional,cma,115988,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124010,sasia_traditional,cma,124010,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124012,sasia_traditional,cma,124012,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124017_c,sasia_traditional,cma,124017,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_124164_c,sasia_traditional,cma,124164,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_125582,sasia_traditional,cma,125582,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130218,sasia_traditional,cma,130218,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_130495,sasia_traditional,cma,130495,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132820_c,sasia_traditional,cma,132820,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_132821,sasia_traditional,cma,132821,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_133057,sasia_traditional,cma,133057,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_133294,sasia_traditional,cma,133294,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136298,sasia_traditional,cma,136298,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136333,sasia_traditional,cma,136333,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136468_c,sasia_traditional,cma,136468,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136470,sasia_traditional,cma,136470,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136471,sasia_traditional,cma,136471,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_136475,sasia_traditional,cma,136475,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_137890_c,sasia_traditional,cma,137890,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_138011,sasia_traditional,cma,138011,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142520,sasia_traditional,cma,142520,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142535,sasia_traditional,cma,142535,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_142546,sasia_traditional,cma,142546,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143304_c,sasia_traditional,cma,143304,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143306,sasia_traditional,cma,143306,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_143307,sasia_traditional,cma,143307,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144082,sasia_traditional,cma,144082,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_144104,sasia_traditional,cma,144104,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146117,sasia_traditional,cma,146117,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146186,sasia_traditional,cma,146186,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146190,sasia_traditional,cma,146190,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146191,sasia_traditional,cma,146191,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146195,sasia_traditional,cma,146195,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_146203,sasia_traditional,cma,146203,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147118_c,sasia_traditional,cma,147118,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147144,sasia_traditional,cma,147144,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147506,sasia_traditional,cma,147506,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147569_c,sasia_traditional,cma,147569,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_147948,sasia_traditional,cma,147948,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_148378,sasia_traditional,cma,148378,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_149419_t,sasia_traditional,cma,149419,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_150489_c,sasia_traditional,cma,150489,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_151021,sasia_traditional,cma,151021,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_152015,sasia_traditional,cma,152015,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153375,sasia_traditional,cma,153375,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153626_c,sasia_traditional,cma,153626,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153992,sasia_traditional,cma,153992,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154338,sasia_traditional,cma,154338,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154757,sasia_traditional,cma,154757,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154758,sasia_traditional,cma,154758,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154759,sasia_traditional,cma,154759,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_154766_c,sasia_traditional,cma,154766,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155382_c,sasia_traditional,cma,155382,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155593,sasia_traditional,cma,155593,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155865_t,sasia_traditional,cma,155865,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_155868,sasia_traditional,cma,155868,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_159533,sasia_traditional,cma,159533,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_159746,sasia_traditional,cma,159746,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_160146,sasia_traditional,cma,160146,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_161785,sasia_traditional,cma,161785,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_162858,sasia_traditional,cma,162858,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_163206_c,sasia_traditional,cma,163206,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_163797_c,sasia_traditional,cma,163797,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_164837_c,sasia_traditional,cma,164837,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_169254,sasia_traditional,cma,169254,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_169257,sasia_traditional,cma,169257,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170083,sasia_traditional,cma,170083,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170774_c,sasia_traditional,cma,170774,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170782,sasia_traditional,cma,170782,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170789,sasia_traditional,cma,170789,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170791,sasia_traditional,cma,170791,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170792,sasia_traditional,cma,170792,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170795,sasia_traditional,cma,170795,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170813,sasia_traditional,cma,170813,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170824,sasia_traditional,cma,170824,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170828,sasia_traditional,cma,170828,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170830_c,sasia_traditional,cma,170830,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170833_c,sasia_traditional,cma,170833,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170834_c,sasia_traditional,cma,170834,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170835_c,sasia_traditional,cma,170835,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170839,sasia_traditional,cma,170839,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170840,sasia_traditional,cma,170840,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170842_c,sasia_traditional,cma,170842,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170848_c,sasia_traditional,cma,170848,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170849,sasia_traditional,cma,170849,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170850,sasia_traditional,cma,170850,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170851,sasia_traditional,cma,170851,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170853,sasia_traditional,cma,170853,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170861,sasia_traditional,cma,170861,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170872_t_c,sasia_traditional,cma,170872,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170878_c,sasia_traditional,cma,170878,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170881,sasia_traditional,cma,170881,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170884,sasia_traditional,cma,170884,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170888,sasia_traditional,cma,170888,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170891_t,sasia_traditional,cma,170891,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_170893,sasia_traditional,cma,170893,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171925,sasia_traditional,cma,171925,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_171926,sasia_traditional,cma,171926,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314112_c,sasia_traditional,cma,314112,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314125,sasia_traditional,cma,314125,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314140_c,sasia_traditional,cma,314140,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314230,sasia_traditional,cma,314230,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314235_c,sasia_traditional,cma,314235,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314239,sasia_traditional,cma,314239,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314364,sasia_traditional,cma,314364,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314367,sasia_traditional,cma,314367,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314415_c,sasia_traditional,cma,314415,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314440,sasia_traditional,cma,314440,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314442_c,sasia_traditional,cma,314442,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314449_c,sasia_traditional,cma,314449,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314450,sasia_traditional,cma,314450,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314451_c,sasia_traditional,cma,314451,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314453,sasia_traditional,cma,314453,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314463_c,sasia_traditional,cma,314463,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314465,sasia_traditional,cma,314465,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314466,sasia_traditional,cma,314466,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314469_c,sasia_traditional,cma,314469,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314470,sasia_traditional,cma,314470,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314472_c,sasia_traditional,cma,314472,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314476,sasia_traditional,cma,314476,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314484,sasia_traditional,cma,314484,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314486_c,sasia_traditional,cma,314486,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314487,sasia_traditional,cma,314487,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314488_c,sasia_traditional,cma,314488,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314492,sasia_traditional,cma,314492,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314499,sasia_traditional,cma,314499,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314502,sasia_traditional,cma,314502,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_314504,sasia_traditional,cma,314504,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_677517_t_c,sasia_traditional,cma,677517,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_677522,sasia_traditional,cma,677522,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_677526_c,sasia_traditional,cma,677526,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_37855_c,sasia_traditional,met,37855,The Metropolitan Museum of Art,CC0 (Met Open Access),1625
+met_37968,sasia_traditional,met,37968,The Metropolitan Museum of Art,CC0 (Met Open Access),1760
+met_38035,sasia_traditional,met,38035,The Metropolitan Museum of Art,CC0 (Met Open Access),1860
+met_38038,sasia_traditional,met,38038,The Metropolitan Museum of Art,CC0 (Met Open Access),1735
+met_38046_c,sasia_traditional,met,38046,The Metropolitan Museum of Art,CC0 (Met Open Access),1735
+met_38048,sasia_traditional,met,38048,The Metropolitan Museum of Art,CC0 (Met Open Access),1715
+met_58451,sasia_traditional,met,58451,The Metropolitan Museum of Art,CC0 (Met Open Access),1720
+met_64535,sasia_traditional,met,64535,The Metropolitan Museum of Art,CC0 (Met Open Access),1810
+met_64891_c,sasia_traditional,met,64891,The Metropolitan Museum of Art,CC0 (Met Open Access),1720
+met_72719_c,sasia_traditional,met,72719,The Metropolitan Museum of Art,CC0 (Met Open Access),1850
+aic_107862,us_narrative,aic,107862,Art Institute of Chicago,CC0 (AIC public domain),1901
+aic_110761_c,us_narrative,aic,110761,Art Institute of Chicago,CC0 (AIC public domain),1882
+aic_111442,us_narrative,aic,111442,Art Institute of Chicago,CC0 (AIC public domain),1893
+aic_118979,us_narrative,aic,118979,Art Institute of Chicago,CC0 (AIC public domain),1910
+aic_136394_c,us_narrative,aic,136394,Art Institute of Chicago,CC0 (AIC public domain),1878
+aic_14794,us_narrative,aic,14794,Art Institute of Chicago,CC0 (AIC public domain),1914
+aic_14796,us_narrative,aic,14796,Art Institute of Chicago,CC0 (AIC public domain),1911
+aic_16782,us_narrative,aic,16782,Art Institute of Chicago,CC0 (AIC public domain),1892
+aic_234960,us_narrative,aic,234960,Art Institute of Chicago,CC0 (AIC public domain),1909
+aic_260764,us_narrative,aic,260764,Art Institute of Chicago,CC0 (AIC public domain),1850
+aic_26650,us_narrative,aic,26650,Art Institute of Chicago,CC0 (AIC public domain),1879
+aic_28849,us_narrative,aic,28849,Art Institute of Chicago,CC0 (AIC public domain),1887
+aic_30709_c,us_narrative,aic,30709,Art Institute of Chicago,CC0 (AIC public domain),1835
+aic_44018,us_narrative,aic,44018,Art Institute of Chicago,CC0 (AIC public domain),1866
+aic_53231,us_narrative,aic,53231,Art Institute of Chicago,CC0 (AIC public domain),1889
+aic_5349,us_narrative,aic,5349,Art Institute of Chicago,CC0 (AIC public domain),1899
+aic_60294,us_narrative,aic,60294,Art Institute of Chicago,CC0 (AIC public domain),1902
+aic_81564_c,us_narrative,aic,81564,Art Institute of Chicago,CC0 (AIC public domain),1876
+aic_87643,us_narrative,aic,87643,Art Institute of Chicago,CC0 (AIC public domain),1906
+aic_97907,us_narrative,aic,97907,Art Institute of Chicago,CC0 (AIC public domain),1890
+aic_97909_c,us_narrative,aic,97909,Art Institute of Chicago,CC0 (AIC public domain),1899
+aic_97910,us_narrative,aic,97910,Art Institute of Chicago,CC0 (AIC public domain),1890
+aic_97912,us_narrative,aic,97912,Art Institute of Chicago,CC0 (AIC public domain),1889
+cma_124040,us_narrative,cma,124040,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_131337,us_narrative,cma,131337,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_153394,us_narrative,cma,153394,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173167,us_narrative,cma,173167,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_173173_c,us_narrative,cma,173173,Cleveland Museum of Art,CC0 (CMA Open Access),
+cma_92937_c,us_narrative,cma,92937,Cleveland Museum of Art,CC0 (CMA Open Access),
+met_10159,us_narrative,met,10159,The Metropolitan Museum of Art,CC0 (Met Open Access),1845
+met_10239,us_narrative,met,10239,The Metropolitan Museum of Art,CC0 (Met Open Access),1910
+met_10240_c,us_narrative,met,10240,The Metropolitan Museum of Art,CC0 (Met Open Access),1870
+met_10241,us_narrative,met,10241,The Metropolitan Museum of Art,CC0 (Met Open Access),1897
+met_10464,us_narrative,met,10464,The Metropolitan Museum of Art,CC0 (Met Open Access),1892
+met_10468,us_narrative,met,10468,The Metropolitan Museum of Art,CC0 (Met Open Access),1896
+met_10471,us_narrative,met,10471,The Metropolitan Museum of Art,CC0 (Met Open Access),1886
+met_10813,us_narrative,met,10813,The Metropolitan Museum of Art,CC0 (Met Open Access),1876
+met_10814,us_narrative,met,10814,The Metropolitan Museum of Art,CC0 (Met Open Access),1892
+met_10819,us_narrative,met,10819,The Metropolitan Museum of Art,CC0 (Met Open Access),1871
+met_10821,us_narrative,met,10821,The Metropolitan Museum of Art,CC0 (Met Open Access),1878
+met_10824,us_narrative,met,10824,The Metropolitan Museum of Art,CC0 (Met Open Access),1874
+met_10826,us_narrative,met,10826,The Metropolitan Museum of Art,CC0 (Met Open Access),1881
+met_10976,us_narrative,met,10976,The Metropolitan Museum of Art,CC0 (Met Open Access),1870
+met_11062,us_narrative,met,11062,The Metropolitan Museum of Art,CC0 (Met Open Access),1869
+met_11123,us_narrative,met,11123,The Metropolitan Museum of Art,CC0 (Met Open Access),1873
+met_11124,us_narrative,met,11124,The Metropolitan Museum of Art,CC0 (Met Open Access),1898
+met_11144,us_narrative,met,11144,The Metropolitan Museum of Art,CC0 (Met Open Access),1880
+met_11159,us_narrative,met,11159,The Metropolitan Museum of Art,CC0 (Met Open Access),1894
+met_11160,us_narrative,met,11160,The Metropolitan Museum of Art,CC0 (Met Open Access),1884
+met_11258_c,us_narrative,met,11258,The Metropolitan Museum of Art,CC0 (Met Open Access),1864
+met_11263_c,us_narrative,met,11263,The Metropolitan Museum of Art,CC0 (Met Open Access),1871
+met_11265,us_narrative,met,11265,The Metropolitan Museum of Art,CC0 (Met Open Access),1876
+met_11268,us_narrative,met,11268,The Metropolitan Museum of Art,CC0 (Met Open Access),1869
+met_11619_c,us_narrative,met,11619,The Metropolitan Museum of Art,CC0 (Met Open Access),1841
+met_11623_c,us_narrative,met,11623,The Metropolitan Museum of Art,CC0 (Met Open Access),1863
+met_11627_c,us_narrative,met,11627,The Metropolitan Museum of Art,CC0 (Met Open Access),1837
+met_11757,us_narrative,met,11757,The Metropolitan Museum of Art,CC0 (Met Open Access),1876
+met_11758_c,us_narrative,met,11758,The Metropolitan Museum of Art,CC0 (Met Open Access),1872
+met_11867,us_narrative,met,11867,The Metropolitan Museum of Art,CC0 (Met Open Access),1907
+met_12029,us_narrative,met,12029,The Metropolitan Museum of Art,CC0 (Met Open Access),1918
+met_12055,us_narrative,met,12055,The Metropolitan Museum of Art,CC0 (Met Open Access),1916
+met_12110_c,us_narrative,met,12110,The Metropolitan Museum of Art,CC0 (Met Open Access),1908
+met_12717,us_narrative,met,12717,The Metropolitan Museum of Art,CC0 (Met Open Access),1816
+met_12727,us_narrative,met,12727,The Metropolitan Museum of Art,CC0 (Met Open Access),1816
+met_12728,us_narrative,met,12728,The Metropolitan Museum of Art,CC0 (Met Open Access),1816
+met_12739,us_narrative,met,12739,The Metropolitan Museum of Art,CC0 (Met Open Access),1816
+met_12749,us_narrative,met,12749,The Metropolitan Museum of Art,CC0 (Met Open Access),1816
+met_12759_c,us_narrative,met,12759,The Metropolitan Museum of Art,CC0 (Met Open Access),1816
+met_12762,us_narrative,met,12762,The Metropolitan Museum of Art,CC0 (Met Open Access),1816
+met_13347,us_narrative,met,13347,The Metropolitan Museum of Art,CC0 (Met Open Access),1874
+met_14472,us_narrative,met,14472,The Metropolitan Museum of Art,CC0 (Met Open Access),1866
+met_16345,us_narrative,met,16345,The Metropolitan Museum of Art,CC0 (Met Open Access),1852
+met_20129,us_narrative,met,20129,The Metropolitan Museum of Art,CC0 (Met Open Access),1873
+met_21126,us_narrative,met,21126,The Metropolitan Museum of Art,CC0 (Met Open Access),1854
+met_752047,us_narrative,met,752047,The Metropolitan Museum of Art,CC0 (Met Open Access),1902
+nga_126127,us_narrative,nga,126127,"National Gallery of Art, Washington",CC0 (NGA Open Access),1850
+nga_127203,us_narrative,nga,127203,"National Gallery of Art, Washington",CC0 (NGA Open Access),1875
+nga_129312,us_narrative,nga,129312,"National Gallery of Art, Washington",CC0 (NGA Open Access),1890
+nga_140909,us_narrative,nga,140909,"National Gallery of Art, Washington",CC0 (NGA Open Access),1873
+nga_140910_c,us_narrative,nga,140910,"National Gallery of Art, Washington",CC0 (NGA Open Access),1865
+nga_157922,us_narrative,nga,157922,"National Gallery of Art, Washington",CC0 (NGA Open Access),1895
+nga_157923,us_narrative,nga,157923,"National Gallery of Art, Washington",CC0 (NGA Open Access),1874
+nga_157924_c,us_narrative,nga,157924,"National Gallery of Art, Washington",CC0 (NGA Open Access),1874
+nga_164914,us_narrative,nga,164914,"National Gallery of Art, Washington",CC0 (NGA Open Access),1902
+nga_164927,us_narrative,nga,164927,"National Gallery of Art, Washington",CC0 (NGA Open Access),1874
+nga_166430_c,us_narrative,nga,166430,"National Gallery of Art, Washington",CC0 (NGA Open Access),1845
+nga_166454_c,us_narrative,nga,166454,"National Gallery of Art, Washington",CC0 (NGA Open Access),1869
+nga_166464,us_narrative,nga,166464,"National Gallery of Art, Washington",CC0 (NGA Open Access),1837
+nga_166481,us_narrative,nga,166481,"National Gallery of Art, Washington",CC0 (NGA Open Access),1851
+nga_166492,us_narrative,nga,166492,"National Gallery of Art, Washington",CC0 (NGA Open Access),1887
+nga_166494,us_narrative,nga,166494,"National Gallery of Art, Washington",CC0 (NGA Open Access),1912
+nga_174964,us_narrative,nga,174964,"National Gallery of Art, Washington",CC0 (NGA Open Access),1899
+nga_175339,us_narrative,nga,175339,"National Gallery of Art, Washington",CC0 (NGA Open Access),1913
+nga_178096,us_narrative,nga,178096,"National Gallery of Art, Washington",CC0 (NGA Open Access),1856
+nga_180937_c,us_narrative,nga,180937,"National Gallery of Art, Washington",CC0 (NGA Open Access),1907
+nga_195019,us_narrative,nga,195019,"National Gallery of Art, Washington",CC0 (NGA Open Access),1873
+nga_195123,us_narrative,nga,195123,"National Gallery of Art, Washington",CC0 (NGA Open Access),1870
+nga_30115,us_narrative,nga,30115,"National Gallery of Art, Washington",CC0 (NGA Open Access),1917
+nga_30667,us_narrative,nga,30667,"National Gallery of Art, Washington",CC0 (NGA Open Access),1909
+nga_3205,us_narrative,nga,3205,"National Gallery of Art, Washington",CC0 (NGA Open Access),1895
+nga_42848,us_narrative,nga,42848,"National Gallery of Art, Washington",CC0 (NGA Open Access),1872
+nga_42929,us_narrative,nga,42929,"National Gallery of Art, Washington",CC0 (NGA Open Access),1902
+nga_46557,us_narrative,nga,46557,"National Gallery of Art, Washington",CC0 (NGA Open Access),1909
+nga_46558,us_narrative,nga,46558,"National Gallery of Art, Washington",CC0 (NGA Open Access),1909
+nga_46569,us_narrative,nga,46569,"National Gallery of Art, Washington",CC0 (NGA Open Access),1894
+nga_46571,us_narrative,nga,46571,"National Gallery of Art, Washington",CC0 (NGA Open Access),1880
+nga_46572,us_narrative,nga,46572,"National Gallery of Art, Washington",CC0 (NGA Open Access),1886
+nga_46632,us_narrative,nga,46632,"National Gallery of Art, Washington",CC0 (NGA Open Access),1865
+nga_52163,us_narrative,nga,52163,"National Gallery of Art, Washington",CC0 (NGA Open Access),1884
+nga_52244,us_narrative,nga,52244,"National Gallery of Art, Washington",CC0 (NGA Open Access),1902
+nga_52315,us_narrative,nga,52315,"National Gallery of Art, Washington",CC0 (NGA Open Access),1907
+nga_54132,us_narrative,nga,54132,"National Gallery of Art, Washington",CC0 (NGA Open Access),1910
+nga_55586,us_narrative,nga,55586,"National Gallery of Art, Washington",CC0 (NGA Open Access),1878
+nga_56720,us_narrative,nga,56720,"National Gallery of Art, Washington",CC0 (NGA Open Access),1869
+nga_61247,us_narrative,nga,61247,"National Gallery of Art, Washington",CC0 (NGA Open Access),1907
+nga_61355,us_narrative,nga,61355,"National Gallery of Art, Washington",CC0 (NGA Open Access),1920
+nga_61368,us_narrative,nga,61368,"National Gallery of Art, Washington",CC0 (NGA Open Access),1878
+nga_64552,us_narrative,nga,64552,"National Gallery of Art, Washington",CC0 (NGA Open Access),1882
+nga_64553,us_narrative,nga,64553,"National Gallery of Art, Washington",CC0 (NGA Open Access),1885
+nga_75206,us_narrative,nga,75206,"National Gallery of Art, Washington",CC0 (NGA Open Access),1846
+nga_79863,us_narrative,nga,79863,"National Gallery of Art, Washington",CC0 (NGA Open Access),1892
+nga_89666,us_narrative,nga,89666,"National Gallery of Art, Washington",CC0 (NGA Open Access),1878
+nga_89669,us_narrative,nga,89669,"National Gallery of Art, Washington",CC0 (NGA Open Access),1878
+nga_89670,us_narrative,nga,89670,"National Gallery of Art, Washington",CC0 (NGA Open Access),1885

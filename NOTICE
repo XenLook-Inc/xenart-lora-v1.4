@@ -1,0 +1,31 @@
+XenArt LoRA v1.4 — NOTICE
+
+1. Base model
+   This LoRA is a set of low-rank adapter weights for Z-Image (Tongyi-MAI/Z-Image,
+   non-distilled base model) by Tongyi Lab, Alibaba Group, released under the
+   Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+   The base model weights are NOT included in this repository. Obtain them from
+   https://huggingface.co/Tongyi-MAI/Z-Image and follow its license.
+   Base revision used for training: 04cc4abb7c5069926f75c9bfde9ef43d49423021.
+
+2. Training tool
+   Trained with ai-toolkit 0.13.32 (https://github.com/ostris/ai-toolkit, MIT License).
+
+3. Training images
+   The 1,409 distinct training images are public-domain / open-access reproductions
+   of artworks supplied by museums under CC0 or the Public Domain Mark. Credit:
+     - The Cleveland Museum of Art — Open Access, CC0 1.0 (639 images)
+     - The Metropolitan Museum of Art — Open Access, CC0 1.0 (458 images)
+     - SMK – Statens Museum for Kunst (National Gallery of Denmark) —
+       Public Domain Mark 1.0 (167 images)
+     - National Gallery of Art, Washington — Open Access, CC0 (85 images)
+     - The Art Institute of Chicago — public domain works, CC0 (60 images)
+   The images themselves are NOT redistributed here. A per-image record
+   (museum, object id, licence, last year of the work's production date where the
+   museum record gives one) is in training_data_provenance.csv.
+   The museums did not take part in, sponsor or endorse this model.
+
+4. Marks and disclaimers
+   Museum and tool names are used only to identify sources. No endorsement is implied.
+   This model is provided "as is" (see LICENSE). Generated images are the user's
+   responsibility; do not use them to imitate a living artist or to deceive.
