@@ -1,0 +1,160 @@
+{
+ "28": {
+  "class_type": "UNETLoader",
+  "inputs": {
+   "unet_name": "z_image_bf16.safetensors",
+   "weight_dtype": "default"
+  },
+  "_meta": {
+   "title": "Load Z-Image Base (diffusion model)"
+  }
+ },
+ "30": {
+  "class_type": "CLIPLoader",
+  "inputs": {
+   "clip_name": "qwen_3_4b.safetensors",
+   "type": "lumina2",
+   "device": "default"
+  },
+  "_meta": {
+   "title": "Load text encoder (Qwen3 4B)"
+  }
+ },
+ "29": {
+  "class_type": "VAELoader",
+  "inputs": {
+   "vae_name": "ae.safetensors"
+  },
+  "_meta": {
+   "title": "Load VAE"
+  }
+ },
+ "40": {
+  "class_type": "LoraLoader",
+  "inputs": {
+   "lora_name": "xenart-lora-v1.4.safetensors",
+   "strength_model": 1.0,
+   "strength_clip": 1.0,
+   "model": [
+    "28",
+    0
+   ],
+   "clip": [
+    "30",
+    0
+   ]
+  },
+  "_meta": {
+   "title": "XenArt LoRA v1.4 (strength 0.6-1.0)"
+  }
+ },
+ "11": {
+  "class_type": "ModelSamplingAuraFlow",
+  "inputs": {
+   "shift": 3.0,
+   "model": [
+    "40",
+    0
+   ]
+  },
+  "_meta": {
+   "title": "ModelSamplingAuraFlow"
+  }
+ },
+ "27": {
+  "class_type": "CLIPTextEncode",
+  "inputs": {
+   "text": "East Asian ink painting, a boatman poling a small boat through morning mist, visible brushstrokes, hand-painted surface texture, wordless painted scene, clean unmarked surfaces",
+   "clip": [
+    "40",
+    1
+   ]
+  },
+  "_meta": {
+   "title": "Positive: <style phrase>, <scene>, <brush wording>, wordless painted scene, clean unmarked surfaces"
+  }
+ },
+ "34": {
+  "class_type": "CLIPTextEncode",
+  "inputs": {
+   "text": "text, letters, calligraphy, seal, stamp, signature, watermark, photograph, photorealistic, 3d render",
+   "clip": [
+    "40",
+    1
+   ]
+  },
+  "_meta": {
+   "title": "Negative"
+  }
+ },
+ "13": {
+  "class_type": "EmptySD3LatentImage",
+  "inputs": {
+   "width": 768,
+   "height": 1024,
+   "batch_size": 1
+  },
+  "_meta": {
+   "title": "EmptySD3LatentImage"
+  }
+ },
+ "3": {
+  "class_type": "KSampler",
+  "inputs": {
+   "seed": 1101,
+   "steps": 35,
+   "cfg": 4.0,
+   "sampler_name": "res_multistep",
+   "scheduler": "simple",
+   "denoise": 1.0,
+   "model": [
+    "11",
+    0
+   ],
+   "positive": [
+    "27",
+    0
+   ],
+   "negative": [
+    "34",
+    0
+   ],
+   "latent_image": [
+    "13",
+    0
+   ]
+  },
+  "_meta": {
+   "title": "KSampler"
+  }
+ },
+ "8": {
+  "class_type": "VAEDecode",
+  "inputs": {
+   "samples": [
+    "3",
+    0
+   ],
+   "vae": [
+    "29",
+    0
+   ]
+  },
+  "_meta": {
+   "title": "VAEDecode"
+  }
+ },
+ "9": {
+  "class_type": "SaveImage",
+  "inputs": {
+   "filename_prefix": "xenart_v14",
+   "images": [
+    "8",
+    0
+   ]
+  },
+  "_meta": {
+   "title": "SaveImage"
+  }
+ }
+}

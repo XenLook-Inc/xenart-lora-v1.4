@@ -29,11 +29,16 @@ cleaned (multi-panel scans, fan shapes, seals inside the painted area; 91 images
 seals or inscriptions. In the same 176-image evaluation the mounting borders seen in v1.3 (about 12 of 32 East Asian images)
 no longer appear.
 
+**Training set size: 1,409 images (v1.3 used 1,500).** The 91 removed images were all East Asian works from CMA (74) and
+the Met (17): fan-shaped paintings, multi-panel scans and pictures with seals inside the painted area, which could not be
+cropped clean. SMK (167), NGA (85) and AIC (60) are unchanged. The 1,409 images give 1,901 image-caption pairs.
+
 - No trigger word. The style comes from plain words in the prompt (see *Prompt format*).
 - Weights: `xenart-lora-v1.4.safetensors` (170 MB, BF16, rank 32, 480 tensors).
 - License of this adapter: **MIT**. The base model is Apache-2.0 and is not included (see `NOTICE`).
 
-> 한국어 요약: Z-Image Base용 화풍 LoRA입니다. 퍼블릭 도메인·오픈 액세스(CC0/PDM) 미술관 이미지 1,409점으로만 학습했고,
+> 한국어 요약: Z-Image Base용 화풍 LoRA입니다. 퍼블릭 도메인·오픈 액세스(CC0/PDM) 미술관 이미지 1,409점으로만 학습했고
+> (v1.3은 1,500점, 깨끗하게 잘라낼 수 없는 동양화 91점을 뺐습니다),
 > 사진처럼 나오는 경향을 줄이고 손으로 그린 회화 느낌을 냅니다. 트리거 단어는 없습니다. 아래 *Prompt format* 형식을 쓰세요.
 > v1.4에서는 v1.3의 동양화 족자 표구·테두리 문제를 학습 데이터 정리(그림 부분만 잘라내기, 캡션에서 족자·낙관 표현 제거)로 고쳤습니다.
 > 남은 한계(간판·시계 등 작은 글자가 가끔 나옴)는 *Known limitations*에 그대로 적었습니다.
@@ -59,6 +64,77 @@ misty forest"; jp_nihonga "a heron standing among autumn grasses beside a stream
 planting seeds in a village garden"; latam_mural "workers raising a giant flag over a crowded plaza"; nordic "a lineman raising a
 utility pole on a stormy island shore"; sasia_traditional "a court scene with a prince seated under a canopy and musicians";
 us_narrative "fishermen hauling a dory onto a stormy beach".
+
+## Gallery (full resolution)
+
+All 22 images below are the **first** evaluation prompt of each lane with seeds 1101 and 2202, generated once at
+768x1024 with LoRA strength 1.0 and shown as generated: no re-rolls, no selection, no retouching, no upscaling.
+The exact prompt of every image is in `gallery/prompts.jsonl`.
+
+| lane | seed 1101 | seed 2202 |
+|---|---|---|
+| ea_ink_scroll | [![ea_ink_scroll 1101](gallery/ea_ink_scroll_1101.jpg)](gallery/ea_ink_scroll_1101.jpg) | [![ea_ink_scroll 2202](gallery/ea_ink_scroll_2202.jpg)](gallery/ea_ink_scroll_2202.jpg) |
+| jp_nihonga | [![jp_nihonga 1101](gallery/jp_nihonga_1101.jpg)](gallery/jp_nihonga_1101.jpg) | [![jp_nihonga 2202](gallery/jp_nihonga_2202.jpg)](gallery/jp_nihonga_2202.jpg) |
+| kr_picturebook | [![kr_picturebook 1101](gallery/kr_picturebook_1101.jpg)](gallery/kr_picturebook_1101.jpg) | [![kr_picturebook 2202](gallery/kr_picturebook_2202.jpg)](gallery/kr_picturebook_2202.jpg) |
+| editorial_graphic | [![editorial_graphic 1101](gallery/editorial_graphic_1101.jpg)](gallery/editorial_graphic_1101.jpg) | [![editorial_graphic 2202](gallery/editorial_graphic_2202.jpg)](gallery/editorial_graphic_2202.jpg) |
+| egypt_mural | [![egypt_mural 1101](gallery/egypt_mural_1101.jpg)](gallery/egypt_mural_1101.jpg) | [![egypt_mural 2202](gallery/egypt_mural_2202.jpg)](gallery/egypt_mural_2202.jpg) |
+| eu_classical_mural | [![eu_classical_mural 1101](gallery/eu_classical_mural_1101.jpg)](gallery/eu_classical_mural_1101.jpg) | [![eu_classical_mural 2202](gallery/eu_classical_mural_2202.jpg)](gallery/eu_classical_mural_2202.jpg) |
+| eu_symbolist | [![eu_symbolist 1101](gallery/eu_symbolist_1101.jpg)](gallery/eu_symbolist_1101.jpg) | [![eu_symbolist 2202](gallery/eu_symbolist_2202.jpg)](gallery/eu_symbolist_2202.jpg) |
+| latam_mural | [![latam_mural 1101](gallery/latam_mural_1101.jpg)](gallery/latam_mural_1101.jpg) | [![latam_mural 2202](gallery/latam_mural_2202.jpg)](gallery/latam_mural_2202.jpg) |
+| nordic | [![nordic 1101](gallery/nordic_1101.jpg)](gallery/nordic_1101.jpg) | [![nordic 2202](gallery/nordic_2202.jpg)](gallery/nordic_2202.jpg) |
+| sasia_traditional | [![sasia_traditional 1101](gallery/sasia_traditional_1101.jpg)](gallery/sasia_traditional_1101.jpg) | [![sasia_traditional 2202](gallery/sasia_traditional_2202.jpg)](gallery/sasia_traditional_2202.jpg) |
+| us_narrative | [![us_narrative 1101](gallery/us_narrative_1101.jpg)](gallery/us_narrative_1101.jpg) | [![us_narrative 2202](gallery/us_narrative_2202.jpg)](gallery/us_narrative_2202.jpg) |
+
+## Base model vs LoRA v1.4
+
+Same prompt, same seed, same settings; the only difference is the LoRA (left: Z-Image base, right: + v1.4 at 1.0).
+Top row seed 1101, bottom row seed 2202. One sheet per lane in `compare/`.
+
+| | |
+|---|---|
+| [![ea_ink_scroll](compare/ea_ink_scroll.jpg)](compare/ea_ink_scroll.jpg)<br>ea_ink_scroll | [![jp_nihonga](compare/jp_nihonga.jpg)](compare/jp_nihonga.jpg)<br>jp_nihonga |
+| [![kr_picturebook](compare/kr_picturebook.jpg)](compare/kr_picturebook.jpg)<br>kr_picturebook | [![editorial_graphic](compare/editorial_graphic.jpg)](compare/editorial_graphic.jpg)<br>editorial_graphic |
+| [![egypt_mural](compare/egypt_mural.jpg)](compare/egypt_mural.jpg)<br>egypt_mural | [![eu_classical_mural](compare/eu_classical_mural.jpg)](compare/eu_classical_mural.jpg)<br>eu_classical_mural |
+| [![eu_symbolist](compare/eu_symbolist.jpg)](compare/eu_symbolist.jpg)<br>eu_symbolist | [![latam_mural](compare/latam_mural.jpg)](compare/latam_mural.jpg)<br>latam_mural |
+| [![nordic](compare/nordic.jpg)](compare/nordic.jpg)<br>nordic | [![sasia_traditional](compare/sasia_traditional.jpg)](compare/sasia_traditional.jpg)<br>sasia_traditional |
+| [![us_narrative](compare/us_narrative.jpg)](compare/us_narrative.jpg)<br>us_narrative |  |
+
+## LoRA strength
+
+Base, 0.6, 0.8 and 1.0 for the same prompt and seeds (one sheet per lane in `strength/`). All evaluation numbers on
+this page were measured at 1.0.
+
+[![strength ea_ink_scroll](strength/ea_ink_scroll.jpg)](strength/ea_ink_scroll.jpg)
+
+[![strength nordic](strength/nordic.jpg)](strength/nordic.jpg)
+
+What the 11 sheets show:
+
+- Most of the change from the base model already happens at **0.6**. From 0.6 to 0.8 to 1.0 the composition stays
+  almost the same; the style gets a little stronger (deeper values, more visible paper, silk or canvas texture).
+- **1.0** is the setting we tested and recommend for the strongest style. Try **0.6–0.8** when you combine XenArt with
+  another LoRA or want more of the base model's own look.
+- In the two sheets above, the base model drew a red seal (ink scroll, seed 2202) and a signature-like mark (nordic,
+  seed 2202). The LoRA images at 0.6, 0.8 and 1.0 for those prompts do not have them. Egyptian frieze borders can
+  still show hieroglyph-like patterns at every strength.
+- This is two seeds per lane, looked at by eye, not a measurement. Treat it as a starting point, not a rule.
+
+## ComfyUI workflow
+
+`workflows/xenart-lora-v1.4.json` opens in the ComfyUI editor (drag and drop); `workflows/xenart-lora-v1.4_api.json`
+is the same graph in API format for `POST /prompt`. Both use only core nodes and the settings above.
+Put the files in these ComfyUI model folders (rename in the loader nodes if your copies differ):
+
+| folder | file |
+|---|---|
+| `models/diffusion_models/` | `z_image_bf16.safetensors` (Z-Image base, not Turbo) |
+| `models/text_encoders/` | `qwen_3_4b.safetensors` (CLIPLoader type `lumina2`) |
+| `models/vae/` | `ae.safetensors` |
+| `models/loras/` | `xenart-lora-v1.4.safetensors` |
+
+Graph: UNETLoader -> LoraLoader (1.0) -> ModelSamplingAuraFlow (shift 3) -> KSampler (35 steps, CFG 4.0,
+res_multistep / simple) with an EmptySD3LatentImage of 768x1024. The workflow was run once end to end on our
+machine before release.
 
 ## Prompt format
 
@@ -196,6 +272,10 @@ passing generated images off as historical works, or imitating a named living ar
 | `training_data_provenance.csv` | per-image rights record |
 | `eval/xenart-public-eval-prompts.json` | fixed evaluation prompts |
 | `samples/` | preview images (downscaled) |
+| `gallery/` | 22 full-resolution images (768x1024) + `prompts.jsonl` |
+| `compare/` | base vs LoRA sheets, one per lane |
+| `strength/` | strength 0.6 / 0.8 / 1.0 sheets, one per lane |
+| `workflows/` | ComfyUI workflow (editor format and API format) |
 | `LICENSE`, `NOTICE` | MIT for this adapter; attribution for the base model, tool and museums |
 
 ## Credits
